@@ -1,0 +1,78 @@
+baseurl = "https://www.stat.berkeley.edu/~laan/"
+languageCode = "en-us"
+title = "UC Berkeley's Dr. Mark van der Laan & his students"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = ""
+	description = "Computational biology & causality"
+	copyright = "Mark van der Laan"
+
+	# Repository
+	provider = ""
+	repo_url = ""
+
+	version = ""
+	logo = "logo.png"
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "blue"
+    	accent  = "blue"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = ""
+	email   = "laan@berkeley.edu"
+
+
+[[menu.main]]
+	name   = "Dr. van der Laan"
+	url    = "about/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Students"
+	url    = "students/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Research"
+	url    = "research/"
+	weight = 20
+
+[[menu.main]]
+	name   = "News & resources"
+	url    = "news/"
+	weight = 30
+
+[[menu.main]]
+	name   = "Class information"
+	url    = "teach/"
+	weight = 40
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
