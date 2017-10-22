@@ -6,6 +6,7 @@ author = "Mark van der Laan"
 copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
