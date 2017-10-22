@@ -32,54 +32,54 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
-    url = ""
+    url = "/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
     identifier = "post"
-    url = "post/"
+    url = "/post/"
   [[menu.main]]
     name = "News"
     pre = "<i class='fa fa-newspaper-o fa-fw'></i>"
     weight = 3
     identifier = "news"
-    url = "news/"
+    url = "/news/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 4
     identifier = "about"
-    url = "about/"
+    url = "/about/"
   [[menu.main]]
     name = "Students"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 5
     identifier = "students"
-    url = "students/"
+    url = "/students/"
   [[menu.main]]
     name = "Research"
     pre = "<i class='fa fa-flask fa-fw'></i>"
     weight = 6
     identifier = "research"
-    url = "research/"
+    url = "/research/"
   [[menu.main]]
     name = "Software"
     pre = "<i class='fa fa-code fa-fw'></i>"
     weight = 7
     identifier = "software"
-    url = "software/"
+    url = "/software/"
   [[menu.main]]
     name = "Courses"
     pre = "<i class='fa fa-book fa-fw'></i>"
     weight = 8
     identifier = "courses"
-    url = "teaching/"
+    url = "/teaching/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 9
-    url = "contact/"
+    url = "/contact/"
 
 [social]
     twitter = "target_learning"
