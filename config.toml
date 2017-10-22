@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = "Computational Biology and Causality"
-  brand = ""
+  brand = " "
   googleAnalytics = ""
   disqus = ""
   # CSS name for highlight.js
