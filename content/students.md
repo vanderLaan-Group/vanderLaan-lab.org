@@ -1,35 +1,44 @@
----
-date: 2016-12-23T08:12:30+08:00
-title: Mark van der Laan's students
----
++++
+title = "Lab Members and Alumni"
+date = "2016-12-23"
+sidemenu = "true"
+description = "Students, Post-Docs, and Alumni of the van der Laan Group"
++++
 
-Click on the name of any student for a bio, research interests, and other information.
+Click on the name of any student for a bio, research interests, and other
+information.
 
-### Current graduate students:
+## <u>Current graduate students:<u/>
 
 Aurelien Florent Bibaut
 
-Jonathan M. Levy
-
-[Cheng Ju](http://www.stat.berkeley.edu/~cju/)
+[Wilson (Weixin) Cai](https://www.stat.berkeley.edu/~wcai/)
 
 Mary Combs
 
+[Nima Hejazi](https://www.stat.berkeley.edu/~nhejazi/)
+
+[Cheng Ju](http://www.stat.berkeley.edu/~cju/)
+
+Jonathan M. Levy
+
 Chi Zhang
 
-[Wilson (Weixin) Cai](https://www.stat.berkeley.edu/~wcai/)
+---
 
-### Post-docs:
-
-2016- [David Benkeser](http://www.benkeserstatistics.com/), Postdoctoral Fellow
+## <u>Post-docs:<u/>
 
 2016- Oleg Sofrygin, Postdoctoral Fellow
 
 2015- Caleb Miles, Postdoctoral Fellow
 
-2014- [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral Fellow
+2014- [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
+Fellow
 
-2014- Wenjing Zheng, Postdoctoral Fellow
+2016-2017: [David Benkeser](http://www.benkeserstatistics.com/), Postdoctoral
+Fellow
+
+2014-2017: Wenjing Zheng, Postdoctoral Fellow
 
 2011-2014: [Marco Carone](http://www.marcocarone.com/), Postdoctoral Fellow
 
@@ -51,11 +60,13 @@ Chi Zhang
 
 1997-1998: Chris Andrews, NSF Postdoctoral Fellow in Biostatistics
 
-### Alumni:
+---
+
+## <u>Alumni:<u/>
 
 Boriska Toth, PhD
 
-[Alex Luedtke, PhD](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/AlexLuedtke.html), Assistant Professor at the Fred Hutchinson Cancer Research Center.
+[Alex Luedtke, PhD](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/AlexLuedtke.html), Asst Member, Fred Hutchinson Cancer Research Center.
 
 Laura Balzer, PhD
 
@@ -63,19 +74,23 @@ Ed Bein, PhD, Researcher, UC Berkeley
 
 [Oliver Bembom](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/OliverBembom.html), PhD, Sr. Statistician, AdBrite
 
-[Merrill Birkner](http://www.linkedin.com/pub/merrill-birkner/3/64/7b0), PhD, Genentech
+[Merrill Birkner](http://www.linkedin.com/pub/merrill-birkner/3/64/7b0), PhD,
+Genentech
 
-Alan Brookhart, PhD, Asst Professor, Harvard Medical School and Brigham and Women's Hospital
+Alan Brookhart, PhD, Asst Professor, Harvard Medical School and Brigham and
+Women's Hospital
 
 Jordan Brooks
 
-Jenny Bryan, PhD, Assoc Professor, Dept Statistics, University of British Columbia
+Jenny Bryan, PhD, Assoc Professor, Dept Statistics, University of British
+Columbia
 
 Paul Chaffee
 
 Molly Davies, PhD
 
-Susan Gruber, PhD, Postdoctoral Fellow, Dept of Epidemiology, Harvard School of Public Health
+Susan Gruber, PhD, Postdoctoral Fellow, Dept of Epidemiology, Harvard School of
+Public Health
 
 Tanya Henneman, PhD, Researcher, UC Berkeley SPH
 
@@ -97,9 +112,11 @@ Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 
 Iván Díaz Muñoz, PhD
 
-Maya Petersen, MD, PhD, Asst Professor Biostatistics/Epidemiology, UC Berkeley SPH
+Maya Petersen, MD, PhD, Asst Professor Biostatistics/Epidemiology, UC Berkeley
+SPH
 
-Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology, University of Rochester Medical Center
+Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology,
+University of Rochester Medical Center
 
 Katie Pollard, PhD, Assoc Investigator and Professor, UCSF
 

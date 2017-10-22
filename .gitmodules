@@ -1,3 +1,6 @@
 [submodule "themes/hugo-material-docs"]
 	path = themes/hugo-material-docs
 	url = https://github.com/digitalcraftsman/hugo-material-docs.git
+[submodule "themes/hugo-blackburn"]
+	path = themes/hugo-blackburn
+	url = git@github.com:nhejazi/hugo-blackburn.git

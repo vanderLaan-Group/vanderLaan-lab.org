@@ -1,7 +1,9 @@
----
-date: 2016-12-23T08:21:44+08:00
-title: Projects on Computational Biology
----
++++
+title = "Computational Biology"
+date = "2016-12-23"
+sidemenu = "false"
+description = "Projects on Computational Biology"
++++
 
 **Statistical methods for detecting structured regulatory motifs in DNA sequences.**<br>
 (with Sandrine Dudoit, Sunduz Keles, Michael Eisen [Lawrence Berkeley National Lab], Biao Xing)

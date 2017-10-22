@@ -1,14 +1,15 @@
----
-date: 2016-12-23T08:21:44+08:00
-title: Projects and grants
-menu:
-  main:
-    parent: Research
-    identifier: ./proj
-    weight: 110
----
++++
+title = "Projects and Grants"
+date = "2016-12-23"
+sidemenu = "false"
+description = "Projects and Grants"
++++
 
-Below is a list of current projects. Please also see the [students' pages](../../students) for additional projects. Previous projects can also be found through the following links: [censored data and causal inference](../causality), [computational biology](../compbio), [data-adaptive learning](../crossval), and [multiple hypothesis testing](../multtest).
+Below is a list of current projects. Please also see the [students'
+pages](../students) for additional projects. Previous projects can also be
+found through the following links: [censored data and causal
+inference](../causality), [computational biology](../compbio), [data-adaptive
+learning](../crossval), and [multiple hypothesis testing](../multtest).
 
 ## Current Projects
 
@@ -43,7 +44,7 @@ The goal of this grant is to derive estimates of parameters that can utilize mes
 NIH/NICHHD<br>
 P.I. Jennifer Ahern, PhD
 
-The major goals of this project are relevant to public health because it will increase knowledge of how policies and programs affect health and disparities. The system for determination of health impacts will reduce the cost while improving the quality of assessment of health effects in the future. This project will bolster the capacity of the United States to improve and protect health by providing the evidence base to inform modification of current policies and design of future policies to protect health and reduce disparities. 
+The major goals of this project are relevant to public health because it will increase knowledge of how policies and programs affect health and disparities. The system for determination of health impacts will reduce the cost while improving the quality of assessment of health effects in the future. This project will bolster the capacity of the United States to improve and protect health by providing the evidence base to inform modification of current policies and design of future policies to protect health and reduce disparities.
 
 
 - **Causal Inference for Effectiveness Research in Using Secondary Date**<br>
@@ -93,31 +94,31 @@ Here we propose to bring together a powerful multidisciplinary team from academi
 - **Fresno Asthmatic Children’s Environment Study**<br>
 National Institutes of Health/National Heart, Lung and Blood Institute   <br>
 P.I. Ira Tager
-                   
+
 The specific aims of the study are the following:  1) to evaluate the long-term health effects of exposure to air pollutants/bioaerosols on symptoms, asthma severity and growth of lung function; 2) to evaluate the extent to which genes involved in defense against oxidative stress influence short and long-term pollutant effects; 3) to evaluate the effects of interactions between exposures to traffic related pollutants and bioaerosals on both short-term and long-term pollutant effects; 4) to use methods of causal analysis (marginal structural models) and compare the quantitative inferences between causal and association analyses.
 
- 
+
 - **Toxic Substances in the Environment, Subproject Core D, Biostatistics and Computing**<br>
 National Institutes of Health/National Institute of Environmental Health Sciences                <br>
 P.I. Martyn Smith
 
-The major goals of this project are to provide project investigators with consultative support in biostatistics, and to support computer-based communication and database needs.                                                     
+The major goals of this project are to provide project investigators with consultative support in biostatistics, and to support computer-based communication and database needs.
 
-                                   
+
 - **Statistical Methods to Study the Epidemiology of HIV & Other Diseases**<br>
 National Institutes of Health <br>
 P.I. Nicholas Jewell
 
 Development of statistical techniques for the analysis of a variety of data sets relating to HIV disease, uterine fibroids and other diseases including STIs.
 
-                      
+
 - **Statistical Techniques for Complex Environmental Epidemiological Studies**<br>
 National Institutes of Health <br>
 P.I. Nicholas Jewell
 
 This study is devoted to the development of statistical techniques to understand the effect of environmental exposures on the onset of disease in the presence of diagnosis data and assess the effects of multiple environmental exposures on a variety of pregnancy and child development outcomes.
 
-         
+
 - **Pregnancy Outcomes in Polycystic Ovary Syndrome**<br>
 Kaiser Permanente Division of Research (NIH Prime) <br>
 P.I. Joan Lo
@@ -142,7 +143,7 @@ The major goal of Project 1 is to demonstrate the viability of protein adductomi
 - **Center for Integrative Research on Childhood Leukemia and the Environment: Project 2 - Exposure Assessment for Childhood Leukemia**<br>
 National Institutes of Health/National Institute of Environmental Health Sciences <br>
 P.I. Patricia Buffler
-Project Leader: Stephen Rappaport 
+Project Leader: Stephen Rappaport
 
 A project to assess exposures to persistent contaminants present in homes that may cause leukemia, based upon analysis of house dust, blood collected at the time of the diagnosis of leukemia cases, and archived newborn dried blood spots collected at birth.
 
@@ -159,5 +160,4 @@ Collaboration between two members of the NHLBI-sponsored Cardiovasuclar Research
 Jennifer Creasman, Susan Gruber, Mark van der Laan<br>
 
 We have three objectives for this project.  First, we hope to bridge the gap between scientific progress and broad adoption by industry, academic, and government agencies by developing professional, user-friendly super learner and targeted maximum likelihood estimation (SL-TMLE) software that will allow researchers to compare patient management strategies, identify which strategies work best for specific subgroups and predict outcomes based on individual clinical and demographic characteristics. Second, we aim to demonstrate the superiority of SL-TMLE by analyzing simulated data based on a broad range of existing “real” datasets. Collaborators have pledged access to ten datasets that address some of the priority areas outlined by the Institute of Medicine including cardiovascular disease, functional limitations and HIV/AIDS. These collaborations will result in publications demonstrating SL-TMLE to solve outstanding data analysis problems in CER.  Finally, we aim to increase the understanding and use of SL-TMLE throughout the research community by disseminating SL-TMLE materials via publications and presentations.
-
  -->

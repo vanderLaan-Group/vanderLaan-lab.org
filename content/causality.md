@@ -1,7 +1,10 @@
----
-date: 2016-12-23T08:21:44+08:00
-title: Projects on Censored Data & Causal Inference
----
++++
+title = "Censored Data and Causal Inference"
+date = "2016-12-23"
+sidemenu = "false"
+description = "Projects on Censored Data and Causal Inference"
++++
+
 ## Censored Data and Causality Projects:
 
 **Efficient, Double Robust Estimation in a Weight Loss Study.**<br>

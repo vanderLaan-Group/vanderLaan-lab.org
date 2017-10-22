@@ -1,7 +1,9 @@
----
-date: 2016-12-23T08:21:44+08:00
-title: Projects on Multiple Hypothesis Testing
----
++++
+title = "Multiple Hypothesis Testing"
+date = "2016-12-23"
+sidemenu = "false"
+description = "Projects on Multiple Hypothesis Testing"
++++
 
 Multiple testing methods are hypothesis testing procedures designed to simultaneously test a family of null hypotheses while controlling an error rate. We have described a general statistical framework for multiple hypothesis testing, in which we define error rate control in terms of the true underlying data generating distribution. We have shown that the correct null distribution for the test statistics is obtained by projecting their true distribution onto the space of mean zero distributions. For common choices of test statistics (based on an asymptotically linear parameter estimator), this distribution is asymptotically multivariate normal with mean zero and the covariance of the vector influence curve for the parameter estimator.
 
@@ -19,14 +21,14 @@ In recent years, there has been increased interest in the field of multiple test
 
 ## Publications:
 
-M.J. van der Laan, S. Dudoit, K.S. Pollard (2004), Multiple Testing. Part III. Procedures for Control of the Generalized Family-Wise Error Rate and Proportion of False Positives, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 141 (submitted). 
-(PDF (BEPRESS)) 
+M.J. van der Laan, S. Dudoit, K.S. Pollard (2004), Multiple Testing. Part III. Procedures for Control of the Generalized Family-Wise Error Rate and Proportion of False Positives, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 141 (submitted).
+(PDF (BEPRESS))
 
-M.J. van der Laan, S. Dudoit, K.S. Pollard (2003), Multiple Testing. Part II. Step-Down Procedures for Control of the Family-Wise Error Rate, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 139 (submitted). 
-(PDF (BEPRESS)) 
+M.J. van der Laan, S. Dudoit, K.S. Pollard (2003), Multiple Testing. Part II. Step-Down Procedures for Control of the Family-Wise Error Rate, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 139 (submitted).
+(PDF (BEPRESS))
 
-S. Dudoit, M.J. van der Laan, K.S. Pollard (2003), Multiple Testing. Part I. Single-Step Procedures for Control of General Type I Error Rates, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 138 (submitted). 
-(PDF (BEPRESS)) 
+S. Dudoit, M.J. van der Laan, K.S. Pollard (2003), Multiple Testing. Part I. Single-Step Procedures for Control of General Type I Error Rates, U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 138 (submitted).
+(PDF (BEPRESS))
 
 K.S. Pollard, M.J. van der Laan (2003)  Resampling-based Multiple Testing: Asymptotic Control of Type I Error and Applications to Gene Expression Data, revised for a special issue of Journal of Statistical Planning and Inference.
 
