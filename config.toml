@@ -18,7 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = "Computational Biology and Causality"
-  brand = "![van der Laan Group Logo](./img/logotl.jpeg)"
+  brand = "<img src='/img/logo-cbc.png' alt='van der Laan Group Logo' style='width: 85px;'/>"
+  # brand = "![van der Laan Group Logo](./img/logocbc.png)"
   googleAnalytics = ""
   disqus = ""
   # CSS name for highlight.js
@@ -53,7 +54,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
   [[menu.main]]
     name = "Students"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-group fa-fw'></i>"
     weight = 5
     identifier = "students"
     url = "/students/"

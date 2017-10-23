@@ -1,14 +1,11 @@
 +++
 title = "Lab Members and Alumni"
-date = "2016-12-23"
+date = "2017-10-23"
 sidemenu = "true"
 description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 +++
 
-Click on the name of any student for a bio, research interests, and other
-information.
-
-## <u>Current graduate students:<u/>
+# <u>Current graduate students:<u/>
 
 Aurelien Florent Bibaut
 
@@ -26,7 +23,7 @@ Chi Zhang
 
 ---
 
-## <u>Post-docs:<u/>
+# <u>Post-docs:<u/>
 
 2016- Oleg Sofrygin, Postdoctoral Fellow
 
@@ -44,13 +41,15 @@ Fellow
 
 2007-2010: Hui Wang, Postdoctoral Fellow
 
-2007: Advisor of visitor Ph.D student G. Reevens, Free University of Amsterdam
+2007: Advisor of visiting Ph.D student G. Reevens, Free University of Amsterdam
 
-2004-2007: [Michael Rosenblum](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/MichaelRosenblum.html), Postdoctoral Fellow
+2004-2007: [Michael Rosenblum](https://mrosenblumbiostat.wordpress.com/),
+Postdoctoral Fellow
 
 2003-2005: Blythe Durbin, Postdoctoral Fellow (joint with Sandrine Dudoit)
 
-2003-2004: Sunduz Keles, Postdoctoral Fellow NIH Genomics Grant (joint with Sandrine Dudoit)
+2003-2004: Sunduz Keles, Postdoctoral Fellow NIH Genomics Grant (joint with
+Sandrine Dudoit)
 
 2002-2003: Jonas Larson, Denmark Postdoctoral Fellowship
 
@@ -62,17 +61,15 @@ Fellow
 
 ---
 
-## <u>Alumni:<u/>
+# <u>Alumni:<u/>
 
-Boriska Toth, PhD
-
-[Alex Luedtke, PhD](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/AlexLuedtke.html), Asst Member, Fred Hutchinson Cancer Research Center.
-
-Laura Balzer, PhD
+[Laura Balzer](https://www.umass.edu/sphhs/person/faculty/laura-b-balzer), PhD, 
+Asst Professor, University of Massachusetts Amherst School of Public Health
 
 Ed Bein, PhD, Researcher, UC Berkeley
 
-[Oliver Bembom](https://www.stat.berkeley.edu/~laan/Students/Students_subpages/students_2010/OliverBembom.html), PhD, Sr. Statistician, AdBrite
+[Oliver Bembom](https://www.linkedin.com/in/oliver-bembom-aa90533/), PhD,
+Principal Scientist, Pandora
 
 [Merrill Birkner](http://www.linkedin.com/pub/merrill-birkner/3/64/7b0), PhD,
 Genentech
@@ -82,8 +79,8 @@ Women's Hospital
 
 Jordan Brooks
 
-Jenny Bryan, PhD, Assoc Professor, Dept Statistics, University of British
-Columbia
+[Jenny Bryan](https://www.stat.ubc.ca/~jenny/), PhD, Assoc Professor, Dept
+Statistics, University of British Columbia
 
 Paul Chaffee
 
@@ -92,17 +89,22 @@ Molly Davies, PhD
 Susan Gruber, PhD, Postdoctoral Fellow, Dept of Epidemiology, Harvard School of
 Public Health
 
-Tanya Henneman, PhD, Researcher, UC Berkeley SPH
+Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 
-Alan Hubbard, PhD, Dept of Biostatistics, UC Berkeley
+Alan Hubbard, PhD, Div of Biostatistics, UC Berkeley
 
-Sunduz Keles, PhD, Dept of Statistics, University of Wisconsin
+[Sunduz Keles](http://www.sunduzkeles.org/), PhD, Dept of Statistics, University
+of Wisconsin
 
 Erin LeDell, PhD
 
-Sam Lendle, PhD
+[Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Scientist, Pandora
 
-Annette Molinaro, PhD, Asst Professor Biostatistics, Yale SPH
+[Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Member, Fred Hutchinson
+Cancer Research Center.
+
+Annette Molinaro, PhD, Asst Professor Biostatistics, Yale School of Public
+Health
 
 Kelly Moore, PhD, Jewish Home
 
@@ -110,10 +112,11 @@ Romain Neugebauer, PhD, Biostatistician, Kaiser Permanente
 
 Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 
-Iván Díaz Muñoz, PhD
+[Iván Díaz Muñoz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
+Professor, Weill Cornell Medical College
 
-Maya Petersen, MD, PhD, Asst Professor Biostatistics/Epidemiology, UC Berkeley
-SPH
+Maya Petersen, MD, PhD, Asst Professor, Div of Biostatistics and Epidemiology,
+UC Berkeley School of Public Health
 
 Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology,
 University of Rochester Medical Center
@@ -126,15 +129,19 @@ Kristin Porter, PhD, Senior Associate, MDRC
 
 Christopher Quale, PhD, Principal Biostatistician, Genomic Health
 
-Sherri Rose, PhD, Asst Professor, Harvard University
+[Sherri Rose](http://drsherrirose.com/), PhD, Assoc Professor, Harvard Medical
+School
 
 Daniel Rubin, PhD, Statistician, FDA
 
-Stephanie Sapp, PhD
+[Stephanie Sapp](http://www.stephaniesapp.com/), PhD, Quantitative Analyst,
+Google
 
 Sandra Sinisi, PhD, Sr. Statistician, Abbott Inc.
 
 Ori Stitelman, PhD, media6degrees
+
+Boriska Toth, PhD
 
 Cathy Tuglus, PhD, Division of Biostatistics, University of Southern California
 
@@ -144,4 +151,5 @@ Biao Xing, PhD, Sr. Statistician, Genentech
 
 Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Dept
 
-Wenjing Zheng, PhD
+[Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD
+
