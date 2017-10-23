@@ -1,4 +1,4 @@
-baseurl = "https://vanderlaan-group.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "The Research Group of Mark van der Laan"
 theme = "hugo-blackburn"
@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = "Computational Biology and Causality"
-  brand = ""
+  brand = "![van der Laan Group Logo](./img/logotl.jpeg)"
   googleAnalytics = ""
   disqus = ""
   # CSS name for highlight.js

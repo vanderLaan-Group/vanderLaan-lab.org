@@ -2,13 +2,13 @@
 title = "About"
 date = "2016-03-09"
 sidemenu = "false"
-description = "Mark van der Laan, Jiann-Ping Hsu/Karl E. Pearce Professor in Biostatistics"
+description = "Mark van der Laan, Jiann-Ping Hsu/Karl E. Peace Professor in Biostatistics"
 +++
 
 <img style="float: left;margin:5rem 5rem 5rem 0" src="../about-files/mark_profile.jpeg" width="25%" height="25%">
 <br>
 
-Mark van der Laan, Ph.D. is a Professor of Biostatistics and Statistics at UC
+Mark van der Laan, Ph.D., is a Professor of Biostatistics and Statistics at UC
 Berkeley. His research interests include statistical methods in genomics (i.e.,
 computational biology), survival analysis, censored data, targeted maximum
 likelihood estimation in semiparametric models, causal inference, data adaptive
