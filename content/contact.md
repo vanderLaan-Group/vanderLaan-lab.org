@@ -2,7 +2,7 @@
 title = "Contact"
 date = "2016-12-23"
 sidemenu = "false"
-description = "Contact Information"
+description = ""
 +++
 
 Mark J. van der Laan <br>

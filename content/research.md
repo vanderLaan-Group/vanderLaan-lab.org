@@ -2,7 +2,7 @@
 title = "Research"
 date = "2016-12-23"
 sidemenu = "false"
-description = "Research Statement"
+description = ""
 +++
 
 _Mark van der Laan’s main research interests may be viewed

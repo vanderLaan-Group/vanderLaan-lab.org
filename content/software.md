@@ -2,7 +2,7 @@
 title = "Software"
 date = "2016-12-23"
 sidemenu = "false"
-description = "Software Contributions"
+description = ""
 +++
 
 The van der Laan group contributes state-of-the-art software for Targeted

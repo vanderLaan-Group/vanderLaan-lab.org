@@ -2,7 +2,7 @@
 title = "News"
 date = "2016-12-23"
 sidemenu = "true"
-description = "News and resources"
+description = "The latest from the van der Laan Group"
 +++
 
 Together with Judea Pearl, Jasjeet Sekhon, and Maya Petersen, I am pleased to
@@ -36,10 +36,11 @@ width="50%" height="50%">
 New Book: **Targeted Learning in Data Science: Causal Inference for Complex
 Longitudinal Studies (2017)**
 
-<img style="float: center;margin:0rem 5rem 0rem 10rem" src="../news-files/TLB1.png"
-width="30%" height="30%">
-<img style="float: center;margin:0rem 5rem 0rem 10rem" src="../news-files/TLB2.jpg"
-width="33%" height="33%">
+<img style="float: left; margin-right: 1%; margin-bottom: 0.5em"
+     src="../news-files/TLB1.png" width="30%" height="30%">
+<img style="float: right; margin-right: 1%; margin-bottom: 0.5em"
+     src="../news-files/TLB2.jpg" width="33%" height="33%">
+<p style="clear: both;">
 <br>
 
 Targeted learning methods are critical tools within data science for answering
