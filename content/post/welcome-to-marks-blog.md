@@ -1,5 +1,6 @@
 +++
 title = "Welcome to Mark's Blog"
+author = "Mark van der Laan"
 description = ""
 tags = [
     "resources",
@@ -24,11 +25,17 @@ share ideas, tips, and examples from our research -- and to establish an open
 dialogue with researchers around the world.
 
 Here are a few topics we hope to write about
+
 * Key concepts in the practice of statistics
+
 * The role of machine learning in causal inference
+
 * Targeted Learning as a methodology for empowering science
+
 * How to clearly delineate a statistical estimation problem
+
 * Applications of statistical and causal inference in the real world
+
 * Computationally intensive methods for inference
 
 As part of this effort, we invite interested readers to submit questions to be
