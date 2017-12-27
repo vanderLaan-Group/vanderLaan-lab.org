@@ -7,19 +7,25 @@ description = "Courses taught by Mark van der Laan"
 
 # Recent Courses
 
-PH C240A: Introduction to Modern Biostatistical Theory and Practice
+* PBHLTH C240A / STAT C245A: Introduction to Modern Biostatistical Theory and
+  Practice
+   * Most recently taught in Spring 2017
 
-PH C240B: Biostatistical Methods: Survival Analysis and Causality
+* PBHLTH C240B / STAT C245B: Biostatistical Methods: Survival Analysis and
+  Causality
+   * Most recently taught in Fall 2017
 
-PH 243A: Multivariate Statistical Methods in Genomics
+* PBHLTH 243A: Special Topics in Biostatistics: Multivariate Statistical Methods
+  in Genomics
 
-PH 243D: Adaptive Designs
+* PBHLTH 243D: Special Topics in Biostatistics: Adaptive Designs
 
-PH C246A: Censored Longitudinal Data and Causality
+* PBHLTH C246A / STAT C249A: Censored Longitudinal Data and Causality
 
-PH 295: Targeted Learning with Biomedical Big Data
+* PBHLTH 290 / 295: Targeted Learning with Biomedical Big Data
+   * Most recently taught in Spring 2018
 
-PH 296: Causal Inference Seminar
+* PBHLTH 296: Causal Inference Seminar
 
 ---
 
