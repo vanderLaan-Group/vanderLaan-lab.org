@@ -13,7 +13,7 @@ description = "Courses taught by Mark van der Laan"
 
 * PBHLTH C240B / STAT C245B: Biostatistical Methods: Survival Analysis and
   Causality
-   * Most recently taught in Fall 2017
+   * Most recently taught in Fall 2017 [[Syllabus (PDF)](../teach-files/syllabus-ph240b_survival-fa2017.pdf)]
 
 * PBHLTH 243A: Special Topics in Biostatistics: Multivariate Statistical Methods
   in Genomics
@@ -22,7 +22,13 @@ description = "Courses taught by Mark van der Laan"
 
 * PBHLTH C246A / STAT C249A: Censored Longitudinal Data and Causality
 
-* PBHLTH 290 / 295: Targeted Learning with Biomedical Big Data
+* PBHLTH 290: Targeted Learning in Biomedical Big Data
+   * Most recently taught in Spring 2018 [[Syllabus (PDF)](../teach-files/syllabus-ph290_tlbbd-sp2018.pdf)]
+
+* PBHLTH 290: Biomedical Big Data Seminar
+   * Most recently taught in Fall 2017 [[Syllabus (HTML)]](http://bbd.berkeley.edu/fall-seminar.html)
+
+* PBHLTH 290: Biomedical Big Data Capstone
    * Most recently taught in Spring 2018
 
 * PBHLTH 296: Causal Inference Seminar
