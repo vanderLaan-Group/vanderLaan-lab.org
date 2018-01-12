@@ -24,6 +24,8 @@ description = "Courses taught by Mark van der Laan"
 
 * PBHLTH 290: Targeted Learning in Biomedical Big Data
    * Most recently taught in Spring 2018 [[Syllabus (PDF)](../teach-files/syllabus-ph290_tlbbd-sp2018.pdf)]
+   * [Course website (Spring
+       2018)](https://vanderlaan-group.github.io/tlbbd-sp2018)
 
 * PBHLTH 290: Biomedical Big Data Seminar
    * Most recently taught in Fall 2017 [[Syllabus (HTML)]](http://bbd.berkeley.edu/fall-seminar.html)

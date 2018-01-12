@@ -8,7 +8,7 @@ tags = [
     "targeted learning",
     "Q&A"
 ]
-date = "2017-11-29"
+date = "2017-11-29T11:30:00+00:00"
 categories = [
     "Resources",
     "Statistics",
@@ -30,7 +30,7 @@ Analysis and Causality" at Berkeley:
 > your thoughts on these!
 >
 > Best,
-> S and I
+> S.D. and I.M.
 >
 > 1. Most competing risk analyses assume that the competing risks are
 >  independent of one another. What would be your advice on handling the same
@@ -47,7 +47,7 @@ Analysis and Causality" at Berkeley:
 
 <u>**Answer:**</u>
 
-Hi S and I,
+Hi S.D. and I.M.,
 
 Good questions.
 

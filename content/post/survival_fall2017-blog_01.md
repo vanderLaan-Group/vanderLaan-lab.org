@@ -8,7 +8,7 @@ tags = [
     "targeted learning",
     "Q&A"
 ]
-date = "2017-11-22"
+date = "2017-11-22T15:40:00+00:00"
 categories = [
     "Resources",
     "Statistics",
@@ -34,13 +34,13 @@ Analysis and Causality" at Berkeley:
 > cross-validation technique?
 >
 > Best,
-> T and R
+> T.C. and R.P.
 
 ---
 
 <u>**Answer:**</u>
 
-Hi T and R,
+Hi T.C. and R.P.,
 
 We have a theoretical oracle inequality for leave a proportion $p$ out. The
 finite sample remainder $C(M_1, M_2, \delta) \text{log}\frac{K_n}{n \cdot p}$ in
