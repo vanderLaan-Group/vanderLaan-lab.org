@@ -53,16 +53,19 @@ The Super Learner uses cross-validation, and that is really tailored to do the
 right thing on the finite sample in our hands, but the choice of library matters
 obviously, e.g., to at least include [the Highly Adaptive Lasso]. Given a good
 Super Learner, the targeting step can easily mess things up in finite samples.
-That is why we have developed methods for data-adaptive truncation of the
-treatment mechanism, CV-TMLE to make the targeting step maximally robust by not
-being affected by overfitting of the Super Learner, one-step TMLE using a
-universal least favorable submodel that again robustifies the targeting step by
-using minimal data fitting to achieve the goal of solving the efficient
-influence curve equation, and then there is the risk of selecting the wrong
-variables in the propensity score, which motivated the C-TMLE. In addition,
-extra targeting can give extra properties to the TMLE such as preserving
-asymptotic linearity under misspecification of one of the nuisance parameters.
-We really like to develop a TMLE that does this all in an automated manner and we can certainly implement such a TMLE, and we should.
+That is why we have developed methods to guarantee consistency at a rate faster
+than the critical $n^{-\frac{1}{4}}$ for (1) data-adaptive truncation of the
+treatment mechanism; (2) CV-TMLE to make the targeting step maximally robust by
+not being affected by overfitting of the Super Learner; (3) one-step TMLE using
+a universal least favorable submodel that again robustifies the targeting step
+by using minimal data fitting to achieve the goal of solving the efficient
+influence curve equation; and then there is (4) the risk of selecting the wrong
+variables in the propensity score, which motivated the C-TMLE.
+
+In addition, extra targeting can give extra properties to the TMLE such as
+preserving asymptotic linearity under misspecification of one of the nuisance
+parameters. We really like to develop a TMLE that does this all in an automated
+manner and we can certainly implement such a TMLE, and we should.
 
 Many of these choices also affect the G-computation and IPTW (e.g., choice of
 Super Learning, truncation, variable selection for propensity score etc.).
