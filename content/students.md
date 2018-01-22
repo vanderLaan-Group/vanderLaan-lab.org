@@ -25,11 +25,11 @@ Chi Zhang
 
 # <u>Post-docs:<u/>
 
-2016- Oleg Sofrygin, Postdoctoral Fellow
+2016: Oleg Sofrygin, Postdoctoral Fellow
 
-2015- Caleb Miles, Postdoctoral Fellow
+2015-2018: [Caleb Miles](https://calebhmiles.github.io/), Postdoctoral Fellow
 
-2014- [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
+2014: [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
 Fellow
 
 2016-2017: [David Benkeser](http://www.benkeserstatistics.com/), Postdoctoral
@@ -41,7 +41,7 @@ Fellow
 
 2007-2010: Hui Wang, Postdoctoral Fellow
 
-2007: Advisor of visiting Ph.D student G. Reevens, Free University of Amsterdam
+2007: G. Reevens, Free University of Amsterdam (visiting Ph.D student)
 
 2004-2007: [Michael Rosenblum](https://mrosenblumbiostat.wordpress.com/),
 Postdoctoral Fellow
@@ -103,17 +103,17 @@ Erin LeDell, PhD
 [Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Member, Fred Hutchinson
 Cancer Research Center.
 
+Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
+
 Annette Molinaro, PhD, Asst Professor Biostatistics, Yale School of Public
 Health
 
 Kelly Moore, PhD, Jewish Home
 
-Romain Neugebauer, PhD, Biostatistician, Kaiser Permanente
-
-Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
-
 [Iván Díaz Muñoz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
 Professor, Weill Cornell Medical College
+
+Romain Neugebauer, PhD, Biostatistician, Kaiser Permanente
 
 Maya Petersen, MD, PhD, Asst Professor, Div of Biostatistics and Epidemiology,
 UC Berkeley School of Public Health
