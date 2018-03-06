@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Shown in the home page
   subtitle = "Computational Biology and Causality"
-  brand = "<img src='/img/logo-vdL_2018.png' alt='van der Laan Group Logo' style='width: 130px;'/>"
+  brand = "<img src='/img/logo_trans-vdL_2018.png' alt='van der Laan Group Logo' style='width: 130px;'/>"
   # brand = "![van der Laan Group Logo](./img/logocbc.png)"
   googleAnalytics = ""
   disqus = "vanderlaan-blog"
