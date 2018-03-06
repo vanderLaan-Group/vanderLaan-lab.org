@@ -6,15 +6,18 @@ description = ""
 +++
 
 The van der Laan group contributes state-of-the-art software for Targeted
-Learning over a wide range of platforms, based on computing languages such as
-R, Python, Julia, SAS, C++, and Java.
+Learning over a wide range of platforms, primarily using the [R language for
+statistical computing](https://www.r-project.org/) but also occasionally in
+programming languages such as Python, Julia, SAS, C++, and Java.
 
-[UC Berkeley Biostats Software Community](http://berkeleybiostats.github.io/)
-serves as a central portal for access to all open-source softwares created by
-the group.
+[The TLverse](https://github.com/tlverse) is a centralized effort to overhaul
+the Targeted Learning software ecosystem in R. For a more general set of
+open-source software packages, consider checking out the [UC Berkeley
+Biostatistics Software Community](http://berkeleybiostats.github.io/).
 
-Consider checking out the van der Laan Group on GitHub
+The van der Laan Group GitHub organization is accessible
 [here](https://github.com/vanderLaan-Group).
 
 Software contributions are also routinely available on the GitHub profiles of
 individual students.
+
