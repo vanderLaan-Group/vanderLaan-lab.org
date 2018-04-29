@@ -1,0 +1,6 @@
+[submodule "hugo-blackburn"]
+	path = hugo-blackburn
+	url = git@github.com:nhejazi/hugo-blackburn.git
+[submodule "themes/hugo-blackburn"]
+	path = themes/hugo-blackburn
+	url = git@github.com:nhejazi/hugo-blackburn.git
