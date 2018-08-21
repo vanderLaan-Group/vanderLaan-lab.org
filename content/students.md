@@ -84,7 +84,7 @@ Jordan Brooks
 [Jenny Bryan](https://www.stat.ubc.ca/~jenny/), PhD, Assoc Professor, Dept
 Statistics, University of British Columbia
 
-Paul Chaffee
+[Paul Chaffee](https://www.linkedin.com/in/paulchaffee/), PhD
 
 Molly Davies, PhD
 
