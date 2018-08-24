@@ -13,7 +13,7 @@ Aurelien Florent Bibaut
 
 Mary Combs
 
-[Nima Hejazi](https://www.stat.berkeley.edu/~nhejazi/)
+[Nima Hejazi](https://nimahejazi.org)
 
 [Cheng Ju](http://www.stat.berkeley.edu/~cju/)
 
@@ -27,11 +27,11 @@ Chi Zhang
 
 # <u>Post-docs:<u/>
 
-2016: Oleg Sofrygin, Postdoctoral Fellow
+2016-2018: Oleg Sofrygin, Postdoctoral Fellow
 
 2015-2018: [Caleb Miles](https://calebhmiles.github.io/), Postdoctoral Fellow
 
-2014: [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
+2014-2018: [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
 Fellow
 
 2016-2017: [David Benkeser](http://www.benkeserstatistics.com/), Postdoctoral
@@ -93,32 +93,35 @@ Public Health
 
 Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 
-Alan Hubbard, PhD, Div of Biostatistics, UC Berkeley
+[Alan Hubbard](http://sph.berkeley.edu/alan-hubbard), PhD, Professor, Div of
+Epidemiology and Biostatistics, UC Berkeley School of Public Health
 
-[Sunduz Keles](http://www.sunduzkeles.org/), PhD, Dept of Statistics, University
-of Wisconsin
+[Sunduz Keles](http://www.sunduzkeles.org/), PhD, Professor, Dept of Statistics,
+University of Wisconsin
 
-Erin LeDell, PhD
+[Erin LeDell](https://www.linkedin.com/in/erin-ledell), PhD, Chief Machine
+Learning Scientist, H2O.ai
 
 [Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Scientist, Pandora
 
-[Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Member, Fred Hutchinson
-Cancer Research Center.
+[Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Professor, Dept of
+Statistics, University of Washington
 
 Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 
-Annette Molinaro, PhD, Asst Professor Biostatistics, Yale School of Public
-Health
+Annette Molinaro, PhD, Asst Professor of Biostatistics, Yale School of
+Public Health
 
 Kelly Moore, PhD, Jewish Home
 
-[Iván Díaz Muñoz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
-Professor, Weill Cornell Medical College
+[Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
+Professor of Biostatistics, Weill Cornell Medical College
 
-Romain Neugebauer, PhD, Biostatistician, Kaiser Permanente
+[Romain Neugebauer](https://divisionofresearch.kaiserpermanente.org/researchers/neugebauer-romain),
+PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of Research
 
-Maya Petersen, MD, PhD, Asst Professor, Div of Biostatistics and Epidemiology,
-UC Berkeley School of Public Health
+[Maya Petersen](http://sph.berkeley.edu/maya-petersen), MD, PhD, Assoc Professor,
+Div of Epidemiology and Biostatistics, UC Berkeley School of Public Health
 
 Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology,
 University of Rochester Medical Center
@@ -141,11 +144,14 @@ Google
 
 Sandra Sinisi, PhD, Sr. Statistician, Abbott Inc.
 
+[Oleg Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg),
+PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of Research
+
 Ori Stitelman, PhD, media6degrees
 
 Boriska Toth, PhD
 
-Cathy Tuglus, PhD, Division of Biostatistics, University of Southern California
+Cathy Tuglus, PhD, Div of Biostatistics, University of Southern California
 
 Yue Wang, PhD, Sr. Statistician, Novartis Pharmaceuticals Corp.
 
@@ -153,5 +159,6 @@ Biao Xing, PhD, Sr. Statistician, Genentech
 
 Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Dept
 
-[Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD
+[Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD,
+Sr. Data Scientist, Netflix
 
