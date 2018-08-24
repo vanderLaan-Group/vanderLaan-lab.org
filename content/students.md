@@ -88,6 +88,9 @@ Statistics, University of British Columbia
 
 Molly Davies, PhD
 
+[Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
+Professor of Biostatistics, Weill Cornell Medical College
+
 Susan Gruber, PhD, Postdoctoral Fellow, Dept of Epidemiology, Harvard School of
 Public Health
 
@@ -113,9 +116,6 @@ Annette Molinaro, PhD, Asst Professor of Biostatistics, Yale School of
 Public Health
 
 Kelly Moore, PhD, Jewish Home
-
-[Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
-Professor of Biostatistics, Weill Cornell Medical College
 
 [Romain Neugebauer](https://divisionofresearch.kaiserpermanente.org/researchers/neugebauer-romain),
 PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of Research
