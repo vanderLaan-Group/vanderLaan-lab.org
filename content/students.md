@@ -5,7 +5,7 @@ sidemenu = "true"
 description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 +++
 
-# <u>Current graduate students:<u/>
+# Current graduate students:
 
 Aurelien Florent Bibaut
 
@@ -25,7 +25,7 @@ Chi Zhang
 
 ---
 
-# <u>Post-docs:<u/>
+# Post-docs:
 
 2016-2018: Oleg Sofrygin, Postdoctoral Fellow
 
@@ -63,7 +63,7 @@ Sandrine Dudoit)
 
 ---
 
-# <u>Alumni:<u/>
+# Alumni:
 
 [Laura Balzer](https://www.umass.edu/sphhs/person/faculty/laura-b-balzer), PhD, 
 Asst Professor, University of Massachusetts Amherst School of Public Health
@@ -161,4 +161,3 @@ Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Dept
 
 [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD,
 Sr. Data Scientist, Netflix
-
