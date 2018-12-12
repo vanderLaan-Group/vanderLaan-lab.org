@@ -62,41 +62,71 @@ in Biostatistics -- Adaptive Designs" at Berkeley:
 
 Hi J.R. and L.M.,
 
-...
+This is an excellent question. Interestingly, I believe that these adaptive
+designs if well run do not only benefit the patients themselves by receiving
+beneficial treatment with higher probability if past data suggests evidence for
+this. In addition, I believe that it will also optimize information for
+estimation of the expectation of the counterfactual outcome under the current
+best estimate of the dynamic treatment (i.e., $\mathbb{E}Y_{d*_n}$). May be
+I should say, of the expectation of the counterfactual outcome under the current
+estimate of the stochastic intervention that approximates the optimal dynamic
+treatment as sample size increases (i.e., $\mathbb{E}Y_{g*_n}$).
+
+The reason is that if I am sampling my treatment from g*, then my design is
+optimal for purpose of estimation of $\mathbb{E}Y_{g*}$. More generally, if the
+treatment mechanism is $g*$ and $\frac{g*}{g_0}$ is a measure of how well we
+will do in estimating $\mathbb{E}Y_{g*_0}$ -- i.e., one does want to make the
+actual design as close as possible to the $g*_0$ intervention one wants to
+evaluate. In this case, our $g* = g*_n$ changes with $n$, presumably gradually.
+Nonetheless, under gradual changes of $g*_n$ as function of $n$, one would think
+that the data sampled -- i.e., the used treatment mechanism is much closer to
+drawing from $g*_n$ than it is from drawing treatment independently with
+probability $0.5$. Here you see once again how important it is to make the
+adaptive design converge smoothly and wisely, that is, do not adapt based on
+noise, adapt slowly based on evidence. However even when making rough changes
+due to two stage trial design, i.e., first stage $0.5$, and second stage based
+on perturbation of estimator of optimal rule, the treatment mechanism will still
+resemble more our estimate $g*_n$ than using $0.5$.
+
+Since $g*_n$ is approximating the estimated optimal rule $d*_n$, I would also
+argue that the adaptive design will get a more precise estimator of
+$\mathbb{E}Y_{d*_n}$ as well than one would obtain with an $0.5$ fixed design.
+Formally, one compares the asymptotic variance $\frac{1}{n} \sum_i P_0
+D*_{g*_n}(Q_0,g_i)^2$, where $D*_{g*_n}(Q_0,g_i)$ is the efficient influence
+curve of $\mathbb{E}Y_{g*_n}$, of the TMLE of $\mathbb{E}Y_{g*_n}$ under our
+adaptive design, with the asymptitic variance $P_0 D*_{g*_n}(Q_0,g_b)^2$ where
+$g_b(1 \mid W_i) = 0.5$ is the simple RCT fixed design -- i.e., one compares
+asymptotic variances of the TMLE under the two designs and we know what they
+are.
+
+So, after having run the adaptive design, so that you have $g*_i \forall i$, you
+can make a formal comparison of these two asymptotic variances in your
+simulation (wherein $Q_0$ is known), demonstrating a relative efficiency of the
+two designs for learning $\mathbb{E}Y_{g*_n}$. Similarly, for
+\mathbb{E}Y_{d*_n}$. Of course, in a simulation, you can actually repeat the
+adaptive design many times and obtain a sampling distribution of the TMLE around
+the data adaptive $\mathbb{E}Y_{g*_n}$ for this adaptive design and compare its
+spread with the sampling distribution of the TMLE of $\mathbb{E}Y_{g*_n}$ under
+the $0.5$ fixed design. You also learn from this that if you would respond to
+noise and thereby set $g*_i$ equal to some noisy estimate, then the $g*_i$'s are
+not representative of the final $d*_n$ or $g*_n$ (and it will _not_ be good).
+Similarly, if one does not allow for experimentation -- i.e., one samples $A$
+deterministically from the current estimator $d_i$ of optimal dynamic treatment,
+then things will be bad as well: in that case, we have huge positivity issues,
+that is, $D*_{d*_n}(Q_0,g_i)$ will now blow up since the factor
+$\frac{d*_n}{g_i}$ in front of the residual $Y - \bar{Q}$, where $g_i = d_i$ is
+deterministic, will blow up.
+
+So clearly how one adapts $g*_n$ is fundamental at both the level of eventually
+learn the optimal rule, but also about how to generate much information for
+learning the mean outcome under the final estimate of the optimal rule (or its
+final stochastic approximation representing the adaptive design at last
+observation $n$). The same story applies to the adaptive designs that adapt
+continuous in time as we covered in class.
 
 Best Wishes,
 Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-
-
-
-
-
-
-This is an excellent question. Interestingly I believe that these adaptive designs if well run do not only benefit the patients themselves by receiving beneficial treatment with higher probability if past data suggests evidence for this. In addition, I believe that it will also optimize information for estimation of the expectation of the counterfactual outcome under the current best estimate of the dynamic treatment (i.e. EY_{d*_n}). May be I should say, of the expectation of the counterfactual outcome under the current estimate of the stochastic intervention that approximates the optimal dynamic treatment as sample size increases (i.e. EY_{g*_n})
-
-
-The reason is that if I am sampling my treatment from g*, then my design is optimal for purpose of estimation of EY_{g*}.
-
-More generally, if my treatment mechanism is g* and g*/g_0 is a meaure of how well we will do for EY_{g*_0}, i.e. one does want to make the actual design as close as possible to the g*_0 intervention one wants to evaluate.
-
-In this case, our g*=g*_n changes with n, presumably gradually. Nonetheless, under gradual change of g*_n as function of n, one would think that the data sampled i.e used treatment mechanism is much closer to drawing from g*_n than it is from drawing treatment independently with probability 0.5.
-
-Here you see once again how important it is to make the adaptive design converge smoothly and wisely, that is, do not adapt based on noise, adapt slowly based on evidence. However even when making rough changes due to two stage trial design, i.e. first stage 0.5, and second stage based on perturbation of estimator of optimal rule, the treatment mechanism will still resemble more our estimate g*_n than using 0.5.
-
-Since g*_n is approximating the estimated optimal rule d*_n, I would also argue that the adaptive design will get a more precise estimator of EY_{d*_n} as well than one would obtain with an 0.5 fixed design.
-
-Formally, one compares the asymptotic variance 1/n sum_i P_0 D*_{g*_n}(Q_0,g_i)^2 , where D*_{g*_n}(Q_0,g_i) is efficient influence curve of EY_{g*_n}, of the TMLE of EY_{g*_n} under our adaptive design, with the asymptitic variance P_0 D*_{g*_n}(Q_0,g_b)^2 where g_b(1|W_i)=0.5 is the simple RCT fixed design. i.e. one compares asymptotic variances of the TMLE under the two designs and we know what they are.
-
-So after having run the adaptive design, so that you have g*_i for all i, you an make a  formal comparison of these two asymptotic variances in your simulation (where you know Q_0), and that will demonstrate a relative efficiency of the two design for learning EY_{g*_n}. Similarly, for EY_{d*_n}.
-
-Of course, in a simulation, you can actually repeat the adaptive design many times and obtain a sampling distribution of the TMLE around the data adaptive EY_{g*_n} for this adaptive design, and compare its spread with the sampling distribution of TMLE of EY_{g*_n} under the  0.5 fixed design .
-
-You also learn from this that if you would respond to noise and thereby set g*_i equal to some noisy estimate, then the g*_i's are not representative of the final d*_n or g*_n, and it will not be good. Similarly, if one does not allow for experimentation, i.e. one samples A deterministically from current estimator d_i of optimal dynamic treatment, then things will be bad as well: in that case, we have huge positivity issues, that is,  D*_{d*_n}(Q_0,g_i) will now blow up since the factor d*_n/g_i in front of Y-bar{Q} in it, where g_i =d_i is deterministic, will blow up.
-
-So clearly how one adapts g*_n is fundamental at both the level of eventually learn the optimal rule ,but also about how to generate much information for learning the mean outcome under the final estimate of the optimal rule (or its final stochastic approximation representing the adaptive design at last observation n).
-
-The same story applies to the adaptive designs that adapt continuous in time as we covered in class.
 
