@@ -61,57 +61,58 @@ in Biostatistics -- Adaptive Designs" at Berkeley:
 
 Hi I.M., N.H., and R.P.,
 
-We still start out with a well defined full data random variable \\(X=(W, Y_0,
-Y_1)\\) with some probability distribution \\(P_{X,0}\\). In this case, the
+We still start out with a well defined full data random variable `$X=(W, Y_0,
+Y_1)$` with some probability distribution `$P_{X,0}$`. In this case, the
 design under our control might involve sampling from a marginal distribution
-\\(g_W\\) and a conditional distribution \\(g_A\\) of \\(A\\), given \\(W\\).
+`$g_W$` and a conditional distribution `$g_A$` of `$A$`, given `$W$`.
 
-$g_W$ is now not equal to the population distribution $Q_{W,0}$, but might
-be a biased sample version of that. Our observed data structure of
-$(W, A, Y) = (W, A, Y_A)$ has a probability distribution determined by
-$q_0$, conditional distribution of $Y_a$, given $W$, and $g=(g_W, g_A)$,
-and is given by
+`$g_W$` is now not equal to the population distribution `$Q_{W,0}$`, but might
+be a biased sample version of that. Our observed data structure of `$(W, A, Y)
+= (W, A, Y_A)$` has a probability distribution determined by `$q_0$`,
+conditional distribution of `$Y_a$`, given `$W$`, and `$g=(g_W, g_A)$`, and is
+given by
 
-1. Sample $W$ from $g_{W}$,
-2. sample $\{Y_0, Y_1\}$ from $q$,
-3. sample $A$ from $g_a$, and
-4. define $O = (W, A, Y = Y_A)$.
+1. Sample `$W$` from `$g_{W}$`,
+2. sample `$\{Y_0, Y_1\}$` from `$q$`,
+3. sample `$A$` from `$g_a$`, and
+4. define `$O = (W, A, Y = Y_A)$`.
 
-We could now define an oracle design for $g_0$, some $g_{q_0}$ that might
-be defined by $q_Y$.
+We could now define an oracle design for `$g_0$`, some `$g_{q_0}$` that might be
+defined by `$q_Y$`.
 
-For example, it might define $g_W$ as sampling from the conditional
-distribution of $W$, given $\mathbb{E}(Y_1 - Y_0 \mid W) > 0$, which corresponds
-with only sampling subjects for which there is a positive treatment effect, and
-one might define the oracle design $g_{A}$ as setting $A = 1$.
+For example, it might define `$g_W$` as sampling from the conditional
+distribution of `$W$`, given `$\mathbb{E}(Y_1 - Y_0 \mid W) > 0$`, which
+corresponds with only sampling subjects for which there is a positive treatment
+effect, and one might define the oracle design `$g_{A}$` as setting `$A = 1$`.
 
-A target parameter of interest could be $\mathbb{E}Y_{g_0}$, i.e., the mean
-outcome of $Y$ if we would sample $O$ from $P_{q_0,g_0}$. I would probably first
-want to know how to estimate this quantity, maybe \\[\mathbb{E}Y_{g_0}
-- \mathbb{E}Y_{g_W,A=0},\\] causal effect of treatment for optimal subgroup)
--- based on iid. sampling from a fixed design $P_{q_0,g_0}$, where $g_0$ could
-be the actual distribution of $W$ combined with a standard RCT for $g_A$. This
-now resembles estimation of the treatment effect among the optimal subgroup for
-a fixed design and Alex and I have a paper on that.
+A target parameter of interest could be `$\mathbb{E}Y_{g_0}$`, i.e., the mean
+outcome of `$Y$` if we would sample `$O$` from `$P_{q_0,g_0}$`. I would probably
+first want to know how to estimate this quantity, maybe `$$\mathbb{E}Y_{g_0}
+- \mathbb{E}Y_{g_W,A=0},$$` causal effect of treatment for optimal subgroup)
+-- based on iid. sampling from a fixed design `$P_{q_0,g_0}$`, where `$g_0$`
+could be the actual distribution of `$W$` combined with a standard RCT for
+`$g_A$`. This now resembles estimation of the treatment effect among the optimal
+subgroup for a fixed design, and [Alex Luedtke](http://www.alexluedtke.com/) and
+I have a paper on that.
 
-Such an iid estimator, e.g., an iid TMLE of $\mathbb{E}Y_{g*}$ for a given
-design $g*$ based on sampling from a fixed design $P_{q_0,g_0}$ would now be
-a basis for estimation in an adaptive design where $O_i \sim P_{q_0,g_{0,i}}$ is
-sampled using design $g_{0,i}$, changing with $i$, based on the available data
-at the time point at which the unit for $O_i$ needs to be sampled.
+Such an iid estimator, e.g., an iid TMLE of `$\mathbb{E}Y_{g*}$` for a given
+design `$g*$` based on sampling from a fixed design `$P_{q_0,g_0}$` would now be
+a basis for estimation in an adaptive design where `$O_i \sim P_{q_0,g_{0,i}}$`
+is sampled using design `$g_{0,i}$`, changing with `$i$`, based on the available
+data at the time point at which the unit for `$O_i$` needs to be sampled.
 
-Such an iid TMLE of $\mathbb{E}Y_{g*}$ for an iid design $P_{q_0,g_0}$ would
-involve targeting an initial estimator of $q_0$ with a TMLE step using weighting
-(e.g., in the loss or in the clever covariate) by $\frac{g*}{g_0} = \frac{(g*_W
-g*_A)}{(g_{W,0} g_{A,0})}$.
+Such an iid TMLE of `$\mathbb{E}Y_{g*}$` for an iid design `$P_{q_0,g_0}$` would
+involve targeting an initial estimator of `$q_0$` with a TMLE step using
+weighting (e.g., in the loss or in the clever covariate) by `$\frac{g*}{g_0}
+= \frac{(g*_W g*_A)}{(g_{W,0} g_{A,0})}$`.
 
-We might now simply replace that weight by $\frac{g*}{g_i} = \frac{(g*_W
-g*_A)}{g_{W,i}g_{A,i}}$ to obtain an IPTW--TMLE for the adaptive design sampling
-$O_i$ from $P_{q_0,g_i}$. Generally, I do not see any reason why the whole
+We might now simply replace that weight by `$\frac{g*}{g_i} = \frac{(g*_W
+g*_A)}{g_{W,i}g_{A,i}}$` to obtain an IPTW-TMLE for the adaptive design sampling
+`$O_i$` from `$P_{q_0,g_i}$`. Generally, I do not see any reason why the whole
 theory for sequential adaptive design would not apply to this setting as well.
 It is an example of the general sequential adaptive design (see 2008 tech
-report) in which now $(W,A)$ are the design variables that are generated by the
-distribution set by the experimenter. In fact, in that technical report,
+report) in which now $(W,A)$ are the design variables that are generated by
+the distribution set by the experimenter. In fact, in that technical report,
 I present as one example an adaptive design on the sampling of $X$ in the
 regression context.
 
@@ -127,6 +128,7 @@ outcome. That will then result in a different oracle design and the resulting
 adaptive design will then learn that particular oracle design...
 
 Best Wishes,
+
 Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]

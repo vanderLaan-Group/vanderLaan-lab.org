@@ -26,8 +26,8 @@ Analysis and Causality" at Berkeley:
 
 > Hi Mark,
 >
-> This may be an ill-defined question, but I was wondering, in the usual $O =
-> (W, A, Y)$ set-up, while TMLE has superior asymptotic properties over
+> This may be an ill-defined question, but I was wondering, in the usual `$O
+> = (W, A, Y)$` set-up, while TMLE has superior asymptotic properties over
 > competing estimators like, say, the G-computation plug-in estimator or the
 > IPTW estimator, are there specific instances where it is also guaranteed to
 > have superior finite sample properties as well?
@@ -51,10 +51,10 @@ competitors or be at least as good.
 
 The Super Learner uses cross-validation, and that is really tailored to do the
 right thing on the finite sample in our hands, but the choice of library matters
-obviously, e.g., to at least include [the Highly Adaptive Lasso]. Given a good
+obviously, e.g., to at least include the highly adaptive lasso. Given a good
 Super Learner, the targeting step can easily mess things up in finite samples.
 That is why we have developed methods to guarantee consistency at a rate faster
-than the critical $n^{-\frac{1}{4}}$ for (1) data-adaptive truncation of the
+than the critical `$n^{-\frac{1}{4}}$` for (1) data-adaptive truncation of the
 treatment mechanism; (2) CV-TMLE to make the targeting step maximally robust by
 not being affected by overfitting of the Super Learner; (3) one-step TMLE using
 a universal least favorable submodel that again robustifies the targeting step
@@ -81,7 +81,7 @@ particular data set or even in MSE. But there is no point on betting on a choice
 of estimator which has no theoretical basis since one is then relying on being
 lucky and one can be terribly off. Instead the goal is to keep improving the
 finite sample performance and robustness of a theoretically validated and
-optimal estimator, both w.r.t. estimation and inference.
+optimal estimator, both wrt estimation and inference.
 
 Finite sample theory will generally be limited (the results or bounds are often
 much too conservative to be useful for practical guidance, i.e., in the sense of
@@ -93,6 +93,7 @@ estimation procedures, discover weak spots of the estimator and its inference,
 and thereby guidance towards improvements.
 
 Best,
+
 Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]

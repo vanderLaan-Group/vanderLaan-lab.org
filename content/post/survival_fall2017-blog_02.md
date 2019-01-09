@@ -33,15 +33,15 @@ Analysis and Causality" at Berkeley:
 > S.D. and I.M.
 >
 > 1. Most competing risk analyses assume that the competing risks are
->  independent of one another. What would be your advice on handling the same
->  style of survival data when the occurrence of one of the competing events is
->  informative of the occurrence of the other? In other words, what is a
->  reasonable approach when the independence of competing risks is an
->  unreasonable assumption?
+>    independent of one another. What would be your advice on handling the same
+>    style of survival data when the occurrence of one of the competing events
+>    is informative of the occurrence of the other? In other words, what is
+>    a reasonable approach when the independence of competing risks is an
+>    unreasonable assumption?
 >
-> 2. If we assume we have some $\Psi$ as a target parameter mapping, how should
->  we proceed if $\Psi$ is not pathwise differentiable at $P_0$? What if it is
->  pathwise differentiable, but the canonical gradient is large?
+> 2. If we assume we have some `$\Psi$` as a target parameter mapping, how
+>    should we proceed if `$\Psi$` is not pathwise differentiable at `$P_0$`?
+>    What if it is pathwise differentiable, but the canonical gradient is large?
 
 ---
 
@@ -52,23 +52,23 @@ Hi S.D. and I.M.,
 Good questions.
 
 Regarding (1), this is something we discussed in class as well. So, one has two
-time-to-event times $T_1$ and $T_2$ and if $T_1$ happens before $T_2$ we do not
-see $T_2$ and vica-versa, say. Suppose one cares about estimating the effect of
-treatment on survival function of $T_1$. Then one could view $T_2$ as a
-right-censoring variable and assume CAR, and thereby that the probability of
-$T_2$ being equal to $t$ given $T_2 \geq t$, $T_1$, and the observed past, is
-only a function of the observed past. That is what you refer to as making an
-independence assumption, but keep in mind it is a conditional independence
-assumption so that the richer the observed history the more realistic this
-assumption will be.
+time-to-event times `$T_1$` and `$T_2$` and if `$T_1$` happens before `$T_2$` we
+do not see `$T_2$` and vica-versa, say. Suppose one cares about estimating the
+effect of treatment on survival function of `$T_1$`. Then one could view `$T_2$`
+as a right-censoring variable and assume CAR, and thereby that the probability
+of `$T_2$` being equal to `$t$` given `$T_2 \geq t$`, `$T_1$`, and the observed
+past, is only a function of the observed past. That is what you refer to as
+making an independence assumption, but keep in mind it is a conditional
+independence assumption so that the richer the observed history the more
+realistic this assumption will be.
 
-As I argued, often it is not that sensible to view $T_2$ as a censoring time,
+As I argued, often it is not that sensible to view `$T_2$` as a censoring time,
 e.g., time until death. In that case, I prefer to view the full-data involving
-tracking $X_1(t) = I(\text{min}(T_1, T_2) \leq t, T_1 < T_2)$ and
-$X_2(t) = I(\text{min}(T_1, T_2) \leq t, T_2 < T_1)$ and look at both of these
-outcome processes. As an example, one may evaluate the causal effect of
-treatment on $X_1(t_0)$ and also on $X_2(t_0)$. One could think of
-$(X_1(t_0), X_2(t_0))$ as a discrete variable with three possible values and
+tracking `$X_1(t) = \mathbb{I}(\text{min}(T_1, T_2) \leq t, T_1 < T_2)$` and
+`$X_2(t) = \mathbb{I}(\text{min}(T_1, T_2) \leq t, T_2 < T_1)$` and look at both
+of these outcome processes. As an example, one may evaluate the causal effect of
+treatment on `$X_1(t_0)$` and also on `$X_2(t_0)$`. One could think of
+`$(X_1(t_0), X_2(t_0))$` as a discrete variable with three possible values and
 estimate the probability distribution of this discrete variable under different
 treatment regimens and compare treatments accordingly.
 
@@ -103,22 +103,23 @@ no price to pay in terms of multiple testing which would be the case if one
 instead defines a large collection of target parameters _a priori_.
 
 Statistical inference with non-pathwise differentiable target parameters such as
-a dose response curve $EY(a)$ for a continuous treatment dose $a$, based on
-$O = (W, A, Y)$, nonparametric model, is challenging. We have developed methods
-for that purpose (work with Aurelien Bibaut and a chapter in the new upcoming
-Targeted Learning book). They approximate the curve by a smooth approximation
-that is pathwise differentiable, estimate it with CV-TMLE, data adaptively
-select amount of smoothing optimally trading off bias and variance, and
-establishing that this CV-TMLE will still be asymptotically normal so that
+a dose response curve `$\mathbb{E}Y(a)$` for a continuous treatment dose `$a$`,
+based on `$O = (W, A, Y)$`, nonparametric model, is challenging. We have
+developed methods for that purpose (work with Aurelien Bibaut and a chapter in
+the new upcoming Targeted Learning book). They approximate the curve by a smooth
+approximation that is pathwise differentiable, estimate it with CV-TMLE, data
+adaptively select amount of smoothing optimally trading off bias and variance,
+and establishing that this CV-TMLE will still be asymptotically normal so that
 inference is available based on the normal limit distribution (with lower rates
-of convergence than $\frac{1}{\sqrt{n}}$). This is exciting  and important work
-which will occupy us for years to come. Apparently, we can utilize all our
+of convergence than `$\frac{1}{\sqrt{n}}$`). This is exciting  and important
+work which will occupy us for years to come. Apparently, we can utilize all our
 advances in the targeted learning of pathwise differentiable target parameters
 for this purpose, we just target a smooth approximation, and tune that
 approximation appropriately, while preserving the asymptotic normality with mean
-zero (so that bias can be ignored in confidence interval...
+zero (so that bias can be ignored in generating confidence interval...)
 
 Best,
+
 Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
