@@ -51,22 +51,22 @@ Learning in Biomedical Big Data" at Berkeley:
 
 Hi A.W.,
 
-To start with we have to ask for what variables imputation is carried out. If
-the imputation happening for a key variable such as treatment or outcome, or is
-it happening for a baseline or time-dependent covariate that might predict
-censoring or treatment. For the latter case, it might be perfectly reasonable to
-assume that the sequential randomization for both treatment and censoring,
-conditional on the past (defined for what it is, thus, e.g., involving that a
-covariate is missing but we know it is missing) holds for the actual observed
-covariate histories. For example, the decision to set treatment was based on
-what was observed, and the doctor simply did not have access to these variables
-that are reported missing (i.e., were not measured). In that case, one should
-not view this as missing. We simply code the covariate in question with two
-columns, one being an imputation indicator and the other the true or imputed
-value. We think that imputing something meaningful such as carried out with a
-imputation algorithm is not a bad idea, since it might help the Super Learner to
-do a better job extrapolating, instead of having to deal with covariates that
-have an artificial value when not observed.
+To start with we have to ask for what variables imputation is carried out, i.e.,
+if the imputation is happening for a key variable such as treatment or outcome,
+or if it is happening for a baseline or time-dependent covariate that might
+predict censoring or treatment. For the latter case, it might be perfectly
+reasonable to assume that the sequential randomization for both treatment and
+censoring, conditional on the past (defined for what it is, thus, e.g.,
+involving that a covariate is missing but we know it is missing) holds for the
+actual observed covariate histories. For example, the decision to set treatment
+was based on what was observed, and the doctor simply did not have access to
+these variables that are reported missing (i.e., were not measured). In that
+case, one should not view this as missing. We simply code the covariate in
+question with two columns, one being an imputation indicator and the other the
+true or imputed value. We think that imputing something meaningful such as
+carried out with a imputation algorithm is not a bad idea, since it might help
+the Super Learner to do a better job extrapolating, instead of having to deal
+with covariates that have an artificial value when not observed.
 
 If one feels strongly that a certain underlying covariate/time-dependent
 covariate was used in treatment decisions or censoring, even when not observed,
