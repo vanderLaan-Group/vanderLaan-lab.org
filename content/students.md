@@ -9,30 +9,43 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 Aurelien Florent Bibaut
 
-[Wilson (Weixin) Cai](https://www.stat.berkeley.edu/~wcai/)
-
 Mary Combs
 
-[Nima Hejazi](https://nimahejazi.org)
+[Nima Hejazi](https://nimahejazi.org) (joint with Alan Hubbard)
 
-[Cheng Ju](http://www.stat.berkeley.edu/~cju/)
+[Ivana Malenica](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en&oi=ao)
 
-Jonathan M. Levy
+[Rachael Phillips](https://www.linkedin.com/in/rachaelvphillips) (joint with
+Alan Hubbard)
 
-Ivana Malenica
-
-Chi Zhang
+[Yue You](https://www.linkedin.com/in/yue-you/) (joint with Alan Hubbard)
 
 ---
 
-# Post-docs:
+# Post-docs and past visitors:
 
-2016-2018: Oleg Sofrygin, Postdoctoral Fellow
+2018: [Miguel-Angel
+Luque](https://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel), London School
+of Hygiene and Tropical Medicine (visiting faculty)
+
+2016-2018: [Oleg Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg), Postdoctoral Fellow
 
 2015-2018: [Caleb Miles](https://calebhmiles.github.io/), Postdoctoral Fellow
 
 2014-2018: [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
 Fellow
+
+2018: Helene Rytgaard, University of Copenhagen (visiting PhD student)
+
+2017: [Karla
+Diaz-Ordaz](ihttps://www.lshtm.ac.uk/aboutus/people/diaz-ordaz.karla), London
+School of Hygiene and Tropical Medicine (visiting faculty)
+
+2017: [Frank Blaauw](https://netlify.frbl.eu/), University of Groningen
+(visiting PhD student)
+
+2016-2017: [Antoine Chambaz]( http://helios.mi.parisdescartes.fr/~chambaz),
+University Paris Descartes (visiting faculty)
 
 2016-2017: [David Benkeser](http://www.benkeserstatistics.com/), Postdoctoral
 Fellow
@@ -43,7 +56,7 @@ Fellow
 
 2007-2010: Hui Wang, Postdoctoral Fellow
 
-2007: G. Reevens, Free University of Amsterdam (visiting Ph.D student)
+2007: G. Reevens, Free University of Amsterdam (visiting PhD student)
 
 2004-2007: [Michael Rosenblum](https://mrosenblumbiostat.wordpress.com/),
 Postdoctoral Fellow
@@ -81,8 +94,11 @@ Women's Hospital
 
 Jordan Brooks
 
-[Jenny Bryan](https://www.stat.ubc.ca/~jenny/), PhD, Assoc Professor, Dept
+[Jenny Bryan](https://www.stat.ubc.ca/~jenny/), PhD, Assoc Professor, Department
 Statistics, University of British Columbia
+
+[Weixin Cai](https://statistics.berkeley.edu/~wcai/), PhD, Quantitative
+Researcher, Citadel LLC
 
 [Paul Chaffee](https://www.linkedin.com/in/paulchaffee/), PhD
 
@@ -91,23 +107,27 @@ Molly Davies, PhD
 [Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
 Professor of Biostatistics, Weill Cornell Medical College
 
-Susan Gruber, PhD, Postdoctoral Fellow, Dept of Epidemiology, Harvard School of
+Susan Gruber, PhD, Postdoctoral Fellow, Department of Epidemiology, Harvard School of
 Public Health
 
 Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 
-[Alan Hubbard](http://sph.berkeley.edu/alan-hubbard), PhD, Professor, Div of
-Epidemiology and Biostatistics, UC Berkeley School of Public Health
+[Alan Hubbard](http://sph.berkeley.edu/alan-hubbard), PhD, Professor, Division
+of Epidemiology and Biostatistics, UC Berkeley School of Public Health
 
-[Sunduz Keles](http://www.sunduzkeles.org/), PhD, Professor, Dept of Statistics,
-University of Wisconsin
+[Cheng Ju](https://jucheng1992.github.io/), PhD, Research Scientist, Facebook
+
+[Sunduz Keles](http://www.sunduzkeles.org/), PhD, Professor, Department of
+Statistics, University of Wisconsin--Madison
 
 [Erin LeDell](https://www.linkedin.com/in/erin-ledell), PhD, Chief Machine
 Learning Scientist, H2O.ai
 
 [Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Scientist, Pandora
 
-[Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Professor, Dept of
+Jonathan M. Levy, PhD
+
+[Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Professor, Department of
 Statistics, University of Washington
 
 Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
@@ -117,11 +137,14 @@ Public Health
 
 Kelly Moore, PhD, Jewish Home
 
-[Romain Neugebauer](https://divisionofresearch.kaiserpermanente.org/researchers/neugebauer-romain),
-PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of Research
+[Romain
+Neugebauer](https://divisionofresearch.kaiserpermanente.org/researchers/neugebauer-romain),
+PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of
+Research
 
-[Maya Petersen](http://sph.berkeley.edu/maya-petersen), MD, PhD, Assoc Professor,
-Div of Epidemiology and Biostatistics, UC Berkeley School of Public Health
+[Maya Petersen](http://sph.berkeley.edu/maya-petersen), MD, PhD, Assoc
+Professor, Division of Epidemiology and Biostatistics, UC Berkeley School of
+Public Health
 
 Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology,
 University of Rochester Medical Center
@@ -144,20 +167,25 @@ Google
 
 Sandra Sinisi, PhD, Sr. Statistician, Abbott Inc.
 
-[Oleg Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg),
-PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of Research
+[Oleg
+Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg),
+PhD, Research Scientist, Biostatistics Core, Kaiser Permanente Division of
+Research
 
 Ori Stitelman, PhD, media6degrees
 
 Boriska Toth, PhD
 
-Cathy Tuglus, PhD, Div of Biostatistics, University of Southern California
+Cathy Tuglus, PhD, Division of Biostatistics, University of Southern California
 
 Yue Wang, PhD, Sr. Statistician, Novartis Pharmaceuticals Corp.
 
 Biao Xing, PhD, Sr. Statistician, Genentech
 
-Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Dept
+Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Department
+
+[Chi Zhang](https://www.linkedin.com/in/chi-zhang-83b59195/), PhD, Data
+Scientist, dotData
 
 [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD,
 Sr. Data Scientist, Netflix
