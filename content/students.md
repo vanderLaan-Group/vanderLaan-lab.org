@@ -9,7 +9,7 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 Aurelien Florent Bibaut
 
-Mary Combs
+[Mary Combs](https://scholar.google.com/citations?hl=en&user=wre9B6sAAAAJ&view_op=list_works&gmla=AJsN-F7yLy66KA7lFtgbplbfWLjT8wqTkTudorfbQorsulKooTCXEZ68qpORwUdNeERtJ5oT1CIMv9qQInTxV50LbAnFaTmoTw)
 
 [Nima Hejazi](https://nimahejazi.org) (joint with Alan Hubbard)
 
