@@ -7,7 +7,7 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 # Current graduate students:
 
-Aurelien Florent Bibaut
+[Aurelien Florent Bibaut](https://www.linkedin.com/in/aurelien-bibaut/)
 
 [Mary Combs](https://scholar.google.com/citations?hl=en&user=wre9B6sAAAAJ&view_op=list_works&gmla=AJsN-F7yLy66KA7lFtgbplbfWLjT8wqTkTudorfbQorsulKooTCXEZ68qpORwUdNeERtJ5oT1CIMv9qQInTxV50LbAnFaTmoTw)
 
@@ -35,7 +35,9 @@ of Hygiene and Tropical Medicine (visiting faculty)
 2014-2018: [Kara Rudolph](http://www.biostat.jhsph.edu/~krudolph/), Postdoctoral
 Fellow
 
-2018: Helene Rytgaard, University of Copenhagen (visiting PhD student)
+2018: [Helene
+Rytgaard](https://www.linkedin.com/in/helene-charlotte-rytgaard-996341134/),
+University of Copenhagen (visiting PhD student)
 
 2017: [Karla
 Diaz-Ordaz](ihttps://www.lshtm.ac.uk/aboutus/people/diaz-ordaz.karla), London
@@ -61,10 +63,12 @@ Fellow
 2004-2007: [Michael Rosenblum](https://mrosenblumbiostat.wordpress.com/),
 Postdoctoral Fellow
 
-2003-2005: Blythe Durbin, Postdoctoral Fellow (joint with Sandrine Dudoit)
+2003-2005: Blythe Durbin, Postdoctoral Fellow (joint with [Sandrine
+Dudoit](https://www.stat.berkeley.edu/~sandrine/))
 
-2003-2004: Sunduz Keles, Postdoctoral Fellow NIH Genomics Grant (joint with
-Sandrine Dudoit)
+2003-2004: [Sunduz Keles](http://www.sunduzkeles.org/), Postdoctoral Fellow NIH
+Genomics Grant (joint with [Sandrine
+Dudoit](https://www.stat.berkeley.edu/~sandrine/))
 
 2002-2003: Jonas Larson, Denmark Postdoctoral Fellowship
 
@@ -89,13 +93,13 @@ Principal Scientist, Pandora
 [Merrill Birkner](http://www.linkedin.com/pub/merrill-birkner/3/64/7b0), PhD,
 Genentech
 
-Alan Brookhart, PhD, Asst Professor, Harvard Medical School and Brigham and
-Women's Hospital
+Alan Brookhart, PhD, Professor, Department of Population Health Sciences, Duke
+University
 
 Jordan Brooks
 
-[Jenny Bryan](https://www.stat.ubc.ca/~jenny/), PhD, Assoc Professor, Department
-Statistics, University of British Columbia
+[Jenny Bryan](https://jennybryan.org/about/), PhD, Software Engineer, RStudio,
+and Adj. Professor, Department of Statistics, University of British Columbia
 
 [Weixin Cai](https://statistics.berkeley.edu/~wcai/), PhD, Quantitative
 Researcher, Citadel LLC
@@ -107,8 +111,8 @@ Molly Davies, PhD
 [Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
 Professor of Biostatistics, Weill Cornell Medical College
 
-Susan Gruber, PhD, Postdoctoral Fellow, Department of Epidemiology, Harvard School of
-Public Health
+Susan Gruber, PhD, Postdoctoral Fellow, Department of Epidemiology, Harvard
+School of Public Health
 
 Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 
@@ -118,22 +122,25 @@ of Epidemiology and Biostatistics, UC Berkeley School of Public Health
 [Cheng Ju](https://jucheng1992.github.io/), PhD, Research Scientist, Facebook
 
 [Sunduz Keles](http://www.sunduzkeles.org/), PhD, Professor, Department of
-Statistics, University of Wisconsin--Madison
+Statistics and Department of Biostatistics & Medical Informatics, University of
+Wisconsin--Madison
 
 [Erin LeDell](https://www.linkedin.com/in/erin-ledell), PhD, Chief Machine
 Learning Scientist, H2O.ai
 
 [Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Scientist, Pandora
 
-Jonathan M. Levy, PhD
+[Jonathan M. Levy](https://www.linkedin.com/in/jonathanmarklevy/), PhD,
+Statistical Scientist, Genentech
 
 [Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Professor, Department of
 Statistics, University of Washington
 
 Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 
-Annette Molinaro, PhD, Asst Professor of Biostatistics, Yale School of
-Public Health
+[Annette Molinaro](https://profiles.ucsf.edu/annette.molinaro), PhD, Professor,
+Department of Neurological Surgery and Department of Epidemiology
+& Biostatistics, University of California, San Francisco
 
 Kelly Moore, PhD, Jewish Home
 
@@ -149,9 +156,11 @@ Public Health
 Derick Peterson, PhD, Assoc Professor, Biostatistics and Computational Biology,
 University of Rochester Medical Center
 
-Katie Pollard, PhD, Assoc Investigator and Professor, UCSF
+[Katie Pollard](http://docpollard.org/), PhD, Professor, Department of
+Epidemiology & Biostatistics, University of California, San Francisco
 
-Eric Polley, PhD, National Cancer Institute
+[Eric Polley](https://www.mayo.edu/research/faculty/polley-eric-c-ph-d/bio-20316771),
+PhD, Asst Professor of Biostatistics, Mayo Clinic
 
 Kristin Porter, PhD, Senior Associate, MDRC
 
