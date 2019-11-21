@@ -83,5 +83,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/contact/"
 
 [social]
+    twitter  = "mark_vdlaan"
     github  = "vanderLaan-Group"
     email   = "laan@berkeley.edu"
