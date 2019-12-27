@@ -10,7 +10,7 @@ Division of Epidemiology and Biostatistics<br>
 School of Public Health<br>
 University of California at Berkeley<br>
 Berkeley Way West<br>
-2121 Berkeley Way, #5311<br>
+2121 Berkeley Way #5311,<br>
 Berkeley, CA 94720-7360<br>
 Phone: (510) 643-9866<br>
 email: [laan@berkeley.edu](mailto:laan@berkeley.edu)<br>
