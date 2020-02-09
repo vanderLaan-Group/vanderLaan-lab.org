@@ -27,11 +27,11 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 
 > Hi Mark,
 
-> For longitudinal data such as $O=(L_0,A_0,Y_0,L_1,A_1,Y_1,L_2,A_2,Y_2,\ldots)$, we can 
-> use G-computation formula with sequential regression method if we treat time $t$ as 
+> For longitudinal data such as `$O=(L_0,A_0,Y_0,L_1,A_1,Y_1,L_2,A_2,Y_2,\ldots )$`, we can 
+> use G-computation formula with sequential regression method if we treat time `$t$` as 
 > discrete variable. And you also mentioned that there are more general methods which can 
-> deal with the case when $t$ is continuous. However, it seems there is a dilemma that the 
-> positivity assumption will be threatened more as we create more time points. I wonder 
+> deal with the case when `$t$` is continuous. However, it seems there is a dilemma that 
+> the positivity assumption will be threatened more as we create more time points. I wonder 
 > how this positivity violation issue can be fixed in those methods? Thanks!
 
 > H.L., Y.L. and W.Z.
@@ -73,7 +73,7 @@ that is how one would deal with fact that the data is essentially continuous in 
 
 A TMLE would also require estimation of the relevant factors of the likelihood (beyond 
 censoring and treatment mechanism). If one would carry out targeted maximum likelihood, 
-then one would also estimate these conditional densities of $L(t)$ and $Y(t)$ given the 
+then one would also estimate these conditional densities of `$L(t)$` and `$Y(t)$` given the 
 past by pooling across time. We implemented such a TMLE in work with Ori Stitelman (see 
 e.g., van der Laan, 2010, parts I and II and related articles). The current sequential
 regression TMLE aims to avoid estimation of conditional densities, but does not naturally 
@@ -89,7 +89,7 @@ appears that for various statistical estimation problems it is less problematic 
 mathematically expects).
 
 Therefore, I am still a fan of the targeted maximum likelihood type TMLE as in our 
-original work around 2010, but one wants to reduce the dimension of $L(t)$ to make it 
+original work around 2010, but one wants to reduce the dimension of `$L(t)$` to make it 
 do-able (see [*A General Implementation of TMLE for Longitudinal Data Applied to Causal 
 Inference in Survival Analysis*](https://www.degruyter.com/doi/10.1515/1557-4679.1334)). 
 In recent work with Helene Rijtgaard we have worked on a new TMLE that is a mix of 
@@ -112,8 +112,8 @@ An exception is if the treatment process is very simple in the sense that it wil
 jump once (when to start, when to switch). In that case, even though it can jump at any 
 point in time, the positivity is not much affected by the total number of time points; 
 essentially, the probability of following a particular regimen is a product integral of 1 
-minus the an intensity of the counting process $A(t)$ that only jumps once, and behaves as 
-a conditional survivor function.
+minus the an intensity of the counting process `$A(t)$` that only jumps once, and behaves 
+as a conditional survivor function.
 
 Best Wishes, 
 Mark
