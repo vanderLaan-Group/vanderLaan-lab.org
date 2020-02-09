@@ -23,17 +23,19 @@ A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
 <u>**Question:**</u>
+
 > Hi Mark,
-> We were wondering about the application of TMLE and
-> superlearner to cluster-randomized study designs, and the adoption of the
-> sample average treatment effect (SATE) as an efficient estimator. From our
-> understanding, although the SATE is not formally identifiable in a finite
-> setting, it is nevertheless an efficient estimate due to its asymptotic
-> behavior (TMLE for the population effect is asymptotically linear and has an
-> asymptotically conservative variance estimator). What properties of the SATE
-> make it preferable to the population average treatment effect, particularly
-> in effect modification settings? What allows for valid causal inferences to
-> be drawn from data adaptive parameters like the SATE?
+
+> We were wondering about the application of TMLE and superlearner to cluster-randomized 
+> study designs, and the adoption of the sample average treatment effect (SATE) as an 
+> efficient estimator. From our understanding, although the SATE is not formally 
+> identifiable in a finite setting, it is nevertheless an efficient estimate due to its 
+> asymptotic behavior (TMLE for the population effect is asymptotically linear and has an 
+> asymptotically conservative variance estimator). What properties of the SATE make it 
+> preferable to the population average treatment effect, particularly in effect 
+> modification settings? What allows for valid causal inferences to be drawn from data 
+> adaptive parameters like the SATE?
+
 > Best, A.A. and D.C.
 
 ---
