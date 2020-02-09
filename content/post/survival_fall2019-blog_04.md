@@ -23,6 +23,7 @@ A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
 <u>**Question:**</u>
+
 > Hi Mark,
 
 > Suppose we have a longitudinal data structure where information about the intervention 
@@ -43,7 +44,7 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 
 <u>**Answer:**</u>
 
-Hi David,
+Hi D.C. & M.M.,
 
 We wish to code the data as a longitudinal time ordered data structure 
 `$L(0),A(0),\ldots,L(K),A(K),Y$`, where we need that `$L(k)$` occurs before `$A(k)$`, 
