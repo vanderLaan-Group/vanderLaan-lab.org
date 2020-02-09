@@ -23,34 +23,35 @@ A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
 <u>**Question:**</u>
+
 > Hi Mark,
->
-> First of all, I have doubts regarding the simultaneous confidence interval 
-> for Kaplan-Meier, since I am not necessarily interested in inference for a 
-> parameter. I would like to know if the 95% confidence band for my KM estimator 
-> will hold using the same formula we did in our `R` lab without covariates 
-> (taken from lectures). 
->
-> Secondly, I am interested in testing a hypothesis. I remember discussing in 
-> classes the difference between testing the null hypothesis when each of my 
-> parameters is 0, is different than the null hypothesis that all of the 
-> parameters are 0. I understand that the first is trying to address each 
-> parameter individually, while the second one is testing whether all of the 
-> parameters, simultaneously, are significant.
->
+
+> First of all, I have doubts regarding the simultaneous confidence interval for Kaplan-
+> Meier, since I am not necessarily interested in inference for a parameter. I would like > to know if the 95% confidence band for my KM estimator will hold using the same formula > we did in our `R` lab without covariates (taken from lectures). 
+
+> Secondly, I am interested in testing a hypothesis. I remember discussing in classes the > difference between testing the null hypothesis when each of my parameters is 0, is 
+> different than the null hypothesis that all of the parameters are 0. I understand that 
+> the first is trying to address each parameter individually, while the second one is 
+> testing whether all of the parameters, simultaneously, are significant.
+
 > For instance, for three covariates.
+
 > Case 1:
+
 > `$H_01: w1 = 0$`
+
 > `$H_02: w2 = 0$`
+
 > `$H_03: w3 = 0$`
+
 > Case 2:
+
 > `$H_0: w1 = w2 = w3 = 0$`
->
-> Therefore, is the simultaneous confidence interval calculating the second case 
-> only? For a KM estimator, can it be understood that the simultaneous 
-> confidence interval can be computed for one parameter across time, and for all 
-> of the parameters across time?
->
+
+> Therefore, is the simultaneous confidence interval calculating the second case only? For 
+> a KM estimator, can it be understood that the simultaneous confidence interval can be 
+> computed for one parameter across time, and for all of the parameters across time?
+
 > Thanks, F.M.
 
 ---
@@ -103,7 +104,7 @@ the simultaneous band. Alternatively, we could define as our test statistic the
 Euclidean norm of `$\rho^{-1/2} (S_n-S_{H_0})/SE(S_n)$`, where `$\rho^{1/2}$` is the 
 square root of the correlation matrix `$\rho$`, so that` $\rho{-1/2}$` is its inverse. 
 Under `$H_0:S=S_{H_0}$`, this Euclidean norm converges to the Euclidean norm of a 
-`$N(0,\mathbb{1}_{t \times t})$`, and thus has  a limit `$\Chi^2$` distribution with as 
+`$N(0,\mathbb{1}_{t \times t})$`, and thus has  a limit `${\chi}^2$` distribution with as 
 many degrees of freedom as number of time points `$t$`.
 
 The main point is that we have an estimate of the sampling distribution of 
