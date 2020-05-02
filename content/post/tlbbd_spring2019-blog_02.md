@@ -1,5 +1,5 @@
 +++
-title = "TMLE versus one-step estimator"
+title = "TMLE versus the one-step estimator"
 author = "Mark van der Laan"
 description = ""
 tags = [

@@ -1,5 +1,5 @@
 +++
-title = "Estimating the Sample Average Treatment Effect (SATE) Under Effect Modification in a Cluster Randomized Trial"
+title = "Estimating the sample average treatment effect under effect modification in a cluster randomized trial"
 author = "Mark van der Laan"
 description = ""
 tags = [
@@ -23,7 +23,9 @@ A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
 <u>**Question:**</u>
+
 > Hi Mark,
+>
 > We were wondering about the application of TMLE and
 > superlearner to cluster-randomized study designs, and the adoption of the
 > sample average treatment effect (SATE) as an efficient estimator. From our
@@ -34,7 +36,9 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 > make it preferable to the population average treatment effect, particularly
 > in effect modification settings? What allows for valid causal inferences to
 > be drawn from data adaptive parameters like the SATE?
-> Best, A.A. and D.C.
+>
+> Best,
+> A.A. and D.C.
 
 ---
 
