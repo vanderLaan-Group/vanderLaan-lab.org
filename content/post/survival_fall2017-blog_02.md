@@ -1,5 +1,5 @@
 +++
-title = "Competing Risks and Non-pathwise Differentiable Parameters"
+title = "Competing risks and non-pathwise differentiable parameters"
 author = "Mark van der Laan"
 description = ""
 tags = [

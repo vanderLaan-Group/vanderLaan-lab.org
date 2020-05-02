@@ -1,5 +1,5 @@
 +++
-title = "Finite Sample Properties of TML Estimators"
+title = "Finite-sample properties of TML estimators"
 author = "Mark van der Laan"
 description = ""
 tags = [

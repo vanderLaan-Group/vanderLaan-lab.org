@@ -81,14 +81,14 @@ two score components making up the influence curve `$D_W+D_Y$` of the TMLE.
 
 Note that SATE-ATE (just a sample mean of `$Y_1-Y_0$`minus true mean) is
 asymptotically linear with influence curve
-`$$Y_1-Y_0-\mathbb{E}(Y_1-Y_0)=Y_1-Y_0-\mathbb{E}(Y_1-Y_0|W)+\mathbb{E}(Y_1-Y_0|W)-\mathbb{E}(Y_1-Y_0)$$`,
-
+`$$Y_1-Y_0-\mathbb{E}(Y_1-Y_0)=Y_1-Y_0-\mathbb{E}(Y_1-Y_0|W) +
+\mathbb{E}(Y_1-Y_0|W)-\mathbb{E}(Y_1-Y_0)$$`,
 and this is an orthogonal composition in the sense that the correlations of the
 two terms are zero. The second term equals `$D_W$`.
 
-So TMLE-SATE=TMLE-ATE+ATE-SATE `$\sim P_n D_Y-\frac{1}{n} \sum_i (Y_1-Y_0)-\mathbb{E}(Y_1-Y_0|W)$`.
-
-Similarly, TMLE-SACTE `$\sim P_n D_Y$`.
+So, TMLE-SATE = TMLE-ATE + ATE-SATE `$\sim P_n D_Y-\frac{1}{n}
+\sum_i (Y_1-Y_0)-\mathbb{E}(Y_1-Y_0|W)$`. Similarly, TMLE-SACTE
+`$\sim P_n D_Y$`.
 
 We conclude: TMLE-SACTE is asymptotically linear with an improved influence
 curve `$D_Y$`, having subtracted out the `$D_W$` component. The TMLE-SATE is
@@ -139,14 +139,14 @@ could also decide to build a test based on comparing the two marginal confidence
 intervals (overlap), but this would by necessity be more conservative. If this
 inference for a contrast of `$v$`-specific SATEs happens to be problematic, then
 that might be an argument to instead focus on the effect modification parameter
-(contrast of `$v$`-specific SCATE).
+(contrast of `$v$`-specific SACTE).
 
 `$\frac{1}{n} \sum_i \mathbb{E}(Y_1-Y_0|W_i,V_i=1)-\frac{1}{n} \sum_i
 \mathbb{E}(Y_1-Y_0|W_i,V_i=0)$` instead since for this we have an identified
 influence curve.
 
-If `$V$` is continuous, one might use a working MSM `$m_\{\beta}(v)$` for
-`$\\frac{1}{n} \sum_i \mathbb{E}(Y_1-Y_0|W_i,V_i=v)$` as a function of `$v$`.
+If `$V$` is continuous, one might use a working MSM `$m_{\beta}(v)$` for
+`$\frac{1}{n} \sum_i \mathbb{E}(Y_1-Y_0|W_i,V_i=v)$` as a function of `$v$`.
 One can then use the TMLE of the beta in this working MSM (as implemented in
 `ltmle` e.g.). This would again correspond with using an influence curve that
 would remove a `$D_W$` component of the regular influence curve of the TMLE of
@@ -158,6 +158,7 @@ one should be able to also generalize it to treatment effect modification by
 a discrete or continuous effect modifier `$V$`.
 
 Best Wishes,
+
 Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
