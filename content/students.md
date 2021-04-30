@@ -7,11 +7,7 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 # Current graduate students:
 
-[Aurelien Florent Bibaut](https://www.linkedin.com/in/aurelien-bibaut/)
-
 [Mary Combs](https://scholar.google.com/citations?hl=en&user=wre9B6sAAAAJ&view_op=list_works&gmla=AJsN-F7yLy66KA7lFtgbplbfWLjT8wqTkTudorfbQorsulKooTCXEZ68qpORwUdNeERtJ5oT1CIMv9qQInTxV50LbAnFaTmoTw)
-
-[Nima Hejazi](https://nimahejazi.org) (joint with Alan Hubbard)
 
 [Ivana Malenica](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en&oi=ao)
 
@@ -82,13 +78,16 @@ Dudoit](https://www.stat.berkeley.edu/~sandrine/))
 
 # Alumni:
 
-[Laura Balzer](https://www.umass.edu/sphhs/person/faculty/laura-b-balzer), PhD, 
+[Laura Balzer](https://www.umass.edu/sphhs/person/faculty/laura-b-balzer), PhD,
 Asst Professor, University of Massachusetts Amherst School of Public Health
 
 Ed Bein, PhD, Researcher, UC Berkeley
 
 [Oliver Bembom](https://www.linkedin.com/in/oliver-bembom-aa90533/), PhD,
-Principal Scientist, Pandora
+Distinguished Scientist, SiriusXM+Pandora
+
+[Aurelien Florent Bibaut](https://www.linkedin.com/in/aurelien-bibaut/), PhD,
+Senior Research Scientist, Netflix
 
 [Merrill Birkner](http://www.linkedin.com/pub/merrill-birkner/3/64/7b0), PhD,
 Genentech
@@ -114,6 +113,9 @@ Professor of Biostatistics, Weill Cornell Medical College
 Susan Gruber, PhD, Postdoctoral Fellow, Department of Epidemiology, Harvard
 School of Public Health
 
+[Nima Hejazi](https://nimahejazi.org), PhD, NSF Postdoctoral Research Fellow,
+Weill Cornell Medicine
+
 Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 
 [Alan Hubbard](http://sph.berkeley.edu/alan-hubbard), PhD, Professor, Division
@@ -128,7 +130,8 @@ Wisconsin--Madison
 [Erin LeDell](https://www.linkedin.com/in/erin-ledell), PhD, Chief Machine
 Learning Scientist, H2O.ai
 
-[Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Scientist, Pandora
+[Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Senior Staff
+Scientist, SiriusXM+Pandora
 
 [Jonathan M. Levy](https://www.linkedin.com/in/jonathanmarklevy/), PhD,
 Statistical Scientist, Genentech
@@ -142,7 +145,8 @@ Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 Department of Neurological Surgery and Department of Epidemiology
 & Biostatistics, University of California, San Francisco
 
-Kelly Moore, PhD, Jewish Home
+[Kelly Moore](https://www.linkedin.com/in/kellylmoore1/), PhD, Data Science
+and Engineering Manager, Netflix
 
 [Romain
 Neugebauer](https://divisionofresearch.kaiserpermanente.org/researchers/neugebauer-romain),
@@ -197,4 +201,4 @@ Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Department
 Scientist, dotData
 
 [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng-3b779452/), PhD,
-Sr. Data Scientist, Netflix
+Senior Data Scientist, Netflix
