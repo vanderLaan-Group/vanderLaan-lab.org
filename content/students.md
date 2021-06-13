@@ -7,14 +7,18 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 # Current graduate students:
 
+David Chen (joint with Maya Petersen)
+
 [Mary Combs](https://scholar.google.com/citations?hl=en&user=wre9B6sAAAAJ&view_op=list_works&gmla=AJsN-F7yLy66KA7lFtgbplbfWLjT8wqTkTudorfbQorsulKooTCXEZ68qpORwUdNeERtJ5oT1CIMv9qQInTxV50LbAnFaTmoTw)
 
-[Ivana Malenica](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en&oi=ao)
+Lauren Eyler (joint with Maya Petersen)
+
+William Krinsman
 
 [Rachael Phillips](https://www.linkedin.com/in/rachaelvphillips) (joint with
 Alan Hubbard)
 
-[Yue You](https://www.linkedin.com/in/yue-you/) (joint with Alan Hubbard)
+Wenxin Zhang
 
 ---
 
@@ -83,7 +87,7 @@ Asst Professor, University of Massachusetts Amherst School of Public Health
 
 Ed Bein, PhD, Researcher, UC Berkeley
 
-[Oliver Bembom](https://www.linkedin.com/in/oliver-bembom-aa90533/), PhD,
+[Oliver Bembom](https://www.linkedin.com/in/oliver-b-aa90533/), PhD,
 Distinguished Scientist, SiriusXM+Pandora
 
 [Aurelien Florent Bibaut](https://www.linkedin.com/in/aurelien-bibaut/), PhD,
@@ -108,10 +112,9 @@ Researcher, Citadel LLC
 Molly Davies, PhD
 
 [Iván Díaz](http://vivo.med.cornell.edu/display/cwid-ild2005), PhD, Asst
-Professor of Biostatistics, Weill Cornell Medical College
+Professor of Biostatistics, Weill Cornell Medicine
 
-Susan Gruber, PhD, Postdoctoral Fellow, Department of Epidemiology, Harvard
-School of Public Health
+Susan Gruber, PhD, Principal, [Putnam Data Sciences](https://www.putnamds.com/)
 
 [Nima Hejazi](https://nimahejazi.org), PhD, NSF Postdoctoral Research Fellow,
 Weill Cornell Medicine
@@ -138,6 +141,10 @@ Statistical Scientist, Genentech
 
 [Alex Luedtke](http://www.alexluedtke.com/), PhD, Asst Professor, Department of
 Statistics, University of Washington
+
+[Ivana Malenica](https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en&oi=ao),
+PhD, Visiting Asst Professor of Biostatistics, University of California,
+Berkeley
 
 Maja Miloslavsky, PhD, Assoc Director of Biostatistics, Teikoku Pharma USA
 
@@ -194,6 +201,8 @@ Cathy Tuglus, PhD, Division of Biostatistics, University of Southern California
 Yue Wang, PhD, Sr. Statistician, Novartis Pharmaceuticals Corp.
 
 Biao Xing, PhD, Sr. Statistician, Genentech
+
+[Yue You](https://www.linkedin.com/in/yue-you/), PhD, Data Scientist, Facebook
 
 Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Department
 
