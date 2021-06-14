@@ -7,16 +7,18 @@ description = "Students, Post-Docs, and Alumni of the van der Laan Group"
 
 # Current graduate students:
 
-David Chen (joint with Maya Petersen)
+David Chen (joint with [Maya
+Petersen](https://publichealth.berkeley.edu/people/maya-petersen/))
 
 [Mary Combs](https://scholar.google.com/citations?hl=en&user=wre9B6sAAAAJ&view_op=list_works&gmla=AJsN-F7yLy66KA7lFtgbplbfWLjT8wqTkTudorfbQorsulKooTCXEZ68qpORwUdNeERtJ5oT1CIMv9qQInTxV50LbAnFaTmoTw)
 
-Lauren Eyler (joint with Maya Petersen)
+Lauren Eyler (joint with [Maya
+Petersen](https://publichealth.berkeley.edu/people/maya-petersen/))
 
 William Krinsman
 
 [Rachael Phillips](https://www.linkedin.com/in/rachaelvphillips) (joint with
-Alan Hubbard)
+[Alan Hubbard](https://publichealth.berkeley.edu/people/alan-hubbard/))
 
 Wenxin Zhang
 
@@ -88,7 +90,7 @@ Asst Professor, University of Massachusetts Amherst School of Public Health
 Ed Bein, PhD, Researcher, UC Berkeley
 
 [Oliver Bembom](https://www.linkedin.com/in/oliver-b-aa90533/), PhD,
-Distinguished Scientist, SiriusXM+Pandora
+Distinguished Scientist, SiriusXM/Pandora
 
 [Aurelien Florent Bibaut](https://www.linkedin.com/in/aurelien-bibaut/), PhD,
 Senior Research Scientist, Netflix
@@ -105,7 +107,7 @@ Jordan Brooks
 and Adj. Professor, Department of Statistics, University of British Columbia
 
 [Weixin Cai](https://statistics.berkeley.edu/~wcai/), PhD, Quantitative
-Researcher, Citadel LLC
+Researcher, Citadel, LLC
 
 [Paul Chaffee](https://www.linkedin.com/in/paulchaffee/), PhD
 
@@ -124,7 +126,8 @@ Tanya Henneman, PhD, Researcher, UC Berkeley School of Public Health
 [Alan Hubbard](http://sph.berkeley.edu/alan-hubbard), PhD, Professor, Division
 of Epidemiology and Biostatistics, UC Berkeley School of Public Health
 
-[Cheng Ju](https://jucheng1992.github.io/), PhD, Research Scientist, Facebook
+[Cheng Ju](https://jucheng1992.github.io/), PhD, Senior Machine Learning
+Engineer, Netflix
 
 [Sunduz Keles](http://www.sunduzkeles.org/), PhD, Professor, Department of
 Statistics and Department of Biostatistics & Medical Informatics, University of
@@ -134,7 +137,7 @@ Wisconsin--Madison
 Learning Scientist, H2O.ai
 
 [Sam Lendle](https://www.linkedin.com/in/samlendle/), PhD, Senior Staff
-Scientist, SiriusXM+Pandora
+Scientist, SiriusXM/Pandora
 
 [Jonathan M. Levy](https://www.linkedin.com/in/jonathanmarklevy/), PhD,
 Statistical Scientist, Genentech
@@ -177,15 +180,15 @@ Kristin Porter, PhD, Senior Associate, MDRC
 
 Christopher Quale, PhD, Principal Biostatistician, Genomic Health
 
-[Sherri Rose](http://drsherrirose.com/), PhD, Assoc Professor, Harvard Medical
-School
+[Sherri Rose](http://drsherrirose.org/), PhD, Assoc Professor, Center for Health
+Policy and Center for Primary Care and Outcomes Research, Stanford University
 
 Daniel Rubin, PhD, Statistician, FDA
 
 [Stephanie Sapp](http://www.stephaniesapp.com/), PhD, Quantitative Analyst,
 Google
 
-Sandra Sinisi, PhD, Sr. Statistician, Abbott Inc.
+Sandra Sinisi, PhD, Senior Statistician, Abbott U.S.
 
 [Oleg
 Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg),
@@ -198,13 +201,13 @@ Boriska Toth, PhD
 
 Cathy Tuglus, PhD, Division of Biostatistics, University of Southern California
 
-Yue Wang, PhD, Sr. Statistician, Novartis Pharmaceuticals Corp.
+Yue Wang, PhD, Senior Statistician, Novartis Pharmaceuticals
 
-Biao Xing, PhD, Sr. Statistician, Genentech
+Biao Xing, PhD, Senior Statistician, Genentech
 
 [Yue You](https://www.linkedin.com/in/yue-you/), PhD, Data Scientist, Facebook
 
-Zhuo Yu, PhD, Sr. Statistician, Citigroup Credit Risk Department
+Zhuo Yu, PhD, Senior Statistician, Citigroup Credit Risk Department
 
 [Chi Zhang](https://www.linkedin.com/in/chi-zhang-83b59195/), PhD, Data
 Scientist, dotData
