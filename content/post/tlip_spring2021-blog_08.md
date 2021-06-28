@@ -22,18 +22,19 @@ _This post is part of our Q&A series._
 A question from graduate students in our Spring 2021 offering of the new course
 "Targeted Learning in Practice" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
 > Question Here
 >
 > Best,
+>
 > J.D. and J.D.
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Hi J.D. and J.D.,
 
@@ -45,5 +46,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-
-

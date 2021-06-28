@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Spring 2021 offering of the new course
 "Targeted Learning in Practice" at UC Berkeley:
 
-__Question:__
+## Question:
 
 > Hi Mark,
 >
@@ -86,11 +86,12 @@ __Question:__
 >
 >
 > Best,
+>
 > K.C. and N.N.
 
 ---
 
-__Answer:__
+## Answer:
 
 Hi K.C. and N.N.,
 
