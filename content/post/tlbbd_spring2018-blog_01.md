@@ -23,7 +23,7 @@ A question from a graduate student in our [Spring 2018 offering of "Targeted
 Learning in Biomedical Big
 Data"](https://vanderlaan-group.github.io/tlbbd-sp2018/) at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -38,12 +38,12 @@ Data"](https://vanderlaan-group.github.io/tlbbd-sp2018/) at Berkeley:
 > analysis)?
 >
 > Thanks,
+>
 > A.M.
 
 ---
 
-
-<u>**Answer:**</u>
+## Answer:
 
 Hi A.M.,
 
@@ -167,4 +167,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-

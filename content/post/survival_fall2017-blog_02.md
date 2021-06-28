@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from two graduate students in our Fall 2017 offering of "Survival
 Analysis and Causality" at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -30,6 +30,7 @@ Analysis and Causality" at Berkeley:
 > your thoughts on these!
 >
 > Best,
+>
 > S.D. and I.M.
 >
 > 1. Most competing risk analyses assume that the competing risks are
@@ -45,7 +46,7 @@ Analysis and Causality" at Berkeley:
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Hi S.D. and I.M.,
 
@@ -124,4 +125,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-

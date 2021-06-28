@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -38,11 +38,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 > incorporate sensitivity analysis?
 >
 > Thanks,
+>
 > D.C. & M.M.
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Hi D.C. & M.M.,
 

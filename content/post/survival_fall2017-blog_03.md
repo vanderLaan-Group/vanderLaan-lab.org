@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from a graduate student in our Fall 2017 offering of "Survival
 Analysis and Causality" at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -35,11 +35,12 @@ Analysis and Causality" at Berkeley:
 > Thanks for your time and apologies if this doesn't make sense.
 >
 > Cheers,
+>
 > N.S.
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Hi N.S.,
 
@@ -98,4 +99,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-

@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2018 offering of "Special Topics
 in Biostatistics -- Adaptive Designs" at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -57,8 +57,7 @@ in Biostatistics -- Adaptive Designs" at Berkeley:
 
 ---
 
-
-<u>**Answer:**</u>
+## Answer:
 
 Hi J.R. and L.M.,
 
@@ -130,4 +129,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-

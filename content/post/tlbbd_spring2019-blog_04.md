@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Spring 2019 offering of "Targeted
 Learning in Biomedical Big Data" at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -61,8 +61,7 @@ Learning in Biomedical Big Data" at Berkeley:
 
 ---
 
-
-<u>**Answer:**</u>
+## Answer:
 
 Hi D.W.,
 

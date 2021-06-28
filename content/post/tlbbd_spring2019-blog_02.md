@@ -22,23 +22,22 @@ _This post is part of our Q&A series._
 A question from graduate students in our Spring 2019 offering of "Targeted
 Learning in Biomedical Big Data" at Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
 > Is there any theoretical guarantees about relative performances between TMLE
 > and the one-step estimator in finite sample conditions?
 >
-> Thanks.
+> Thanks,
 >
-> H. R.d.B.
+> H.R.B.
 
 ---
 
+## Answer:
 
-<u>**Answer:**</u>
-
-Hi H. R.d.B.,
+Hi H.R.B.,
 
 Finite sample guarantees are very hard to obtain. One can obtain finite-sample
 confidence intervals by, for example, not relying on a CLT but on finite-sample

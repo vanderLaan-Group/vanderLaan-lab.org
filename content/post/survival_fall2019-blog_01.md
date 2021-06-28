@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -38,12 +38,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 > be drawn from data adaptive parameters like the SATE?
 >
 > Best,
+>
 > A.A. and D.C.
 
 ---
 
-<u>**Answer:**</u>
-
+## Answer:
 
 Hi A.A. and D.C.,
 

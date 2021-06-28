@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from Twitter on choosing between double machine learning and TMLE
 with cross-validation: https://twitter.com/emaadmanzoor/status/1208924841316880385
 
-<u>**Question:**</u>
+## Question:
 
 > [@mark_vdlaan](https://twitter.com/mark_vdlaan) Is there an applied
 > researcher's guide to choosing between double machine learning and TMLE +
@@ -31,7 +31,7 @@ with cross-validation: https://twitter.com/emaadmanzoor/status/12089248413168803
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Thanks for this interesting question. In the past several years, the interest in
 these machine learning-based estimators has become more widespread, since they

@@ -42,4 +42,3 @@ As part of this effort, we invite interested readers to submit questions to be
 answered by Dr. Mark van der Laan. Unfortunately, due to time constraints, not
 all questions will be answered but we hope to answer as many questions as time
 permits.
-

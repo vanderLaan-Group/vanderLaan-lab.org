@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2019 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -54,11 +54,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 > of the parameters across time?
 >
 > Thanks,
+>
 > F.M.
 
 ---
 
-<u>**Answer:**</u>
+## Answer:
 
 Hi F.M.,
 

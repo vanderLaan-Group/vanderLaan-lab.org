@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2020 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -63,12 +63,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 >    data?
 >
 > Best,
+>
 > L.E., P.F.D., and Y.Z.
 
 ---
 
-<u>**Answer:**</u>
-
+## Answer:
 
 Hi L.E., P.F.D., and Y.Z.,
 
@@ -164,4 +164,3 @@ Mark
 
 __P.S.__, remember to write in to our blog at `vanderlaan (DOT) blog [AT]
 berkeley (DOT) edu`. Interesting questions will be answered on our blog!
-

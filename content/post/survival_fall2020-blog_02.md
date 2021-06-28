@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2020 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -37,12 +37,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 >    Prof. Tyler VanderWeele.
 >
 > Best,
+>
 > M.L., S.H., and T.Z.
 
 ---
 
-<u>**Answer:**</u>
-
+## Answer:
 
 Hi M.L., S.H., and T.Z.,
 

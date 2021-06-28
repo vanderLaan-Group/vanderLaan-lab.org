@@ -22,7 +22,7 @@ _This post is part of our Q&A series._
 A question from graduate students in our Fall 2020 offering of "Biostatistical
 Methods: Survival Analysis and Causality" at UC Berkeley:
 
-<u>**Question:**</u>
+## Question:
 
 > Hi Mark,
 >
@@ -33,12 +33,12 @@ Methods: Survival Analysis and Causality" at UC Berkeley:
 > How should we use TMLE to improve efficiency in this case?
 >
 > Best,
+>
 > H.J. and S.L.
 
 ---
 
-<u>**Answer:**</u>
-
+## Answer:
 
 Hi H.J. and S.L.,
 
