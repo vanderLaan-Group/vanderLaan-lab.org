@@ -26,11 +26,15 @@ Wenxin Zhang
 
 # Post-docs and past visitors:
 
+2020-present: [Zeyi Wang](https://scholar.google.com/citations?user=vuP7r6cAAAAJ&hl=en),
+Postdoctoral Fellow
+
 2018: [Miguel-Angel
 Luque](https://www.lshtm.ac.uk/aboutus/people/luque.miguel-angel), London School
 of Hygiene and Tropical Medicine (visiting faculty)
 
-2016-2018: [Oleg Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg), Postdoctoral Fellow
+2016-2018: [Oleg Sofrygin](https://divisionofresearch.kaiserpermanente.org/researchers/sofrygin-oleg),
+Postdoctoral Fellow
 
 2015-2018: [Caleb Miles](https://calebhmiles.github.io/), Postdoctoral Fellow
 

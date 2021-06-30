@@ -1,5 +1,5 @@
 +++
-title = "Adaptive Designs and Continuous Treatments"
+title = "Adaptive designs with continuous treatments"
 author = "Mark van der Laan"
 description = ""
 tags = [

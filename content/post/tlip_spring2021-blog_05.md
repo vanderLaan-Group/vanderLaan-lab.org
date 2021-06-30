@@ -1,5 +1,5 @@
 +++
-title = "Conditions for Asymptotic Efficiency of TMLE"
+title = "Conditions for asymptotic efficiency of TMLE"
 author = "Mark van der Laan"
 description = ""
 tags = [

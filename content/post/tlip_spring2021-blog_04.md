@@ -1,5 +1,5 @@
 +++
-title = "Longitudinal Causal Inference with Left-Censoring and Left-Truncation"
+title = "Longitudinal causal inference with left-censoring and left-truncation"
 author = "Mark van der Laan"
 description = ""
 tags = [

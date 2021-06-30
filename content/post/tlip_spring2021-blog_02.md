@@ -1,5 +1,5 @@
 +++
-title = "Super Learning and Interaction Terms"
+title = "Super learning and interaction terms in models"
 author = "Mark van der Laan"
 description = ""
 tags = [
