@@ -70,7 +70,9 @@ __Q1__: It will depend on the ordering of the indicator basis functions. One
 attractive strategy is to randomly sample basis functions in a manner
 proportional to their sparsity (i.e., minimum proportion of 1s, minimum of
 proportion of 0s). In that case, I would expect that it would gradually get
-better so that one could stop at a plateau. Rachael Phillips and Zeyi Wang have
+better so that one could stop at a plateau. [Rachael
+Phillips](https://scholar.google.com/citations?user=vD1fxpEAAAAJ&hl=en) and
+[Zeyi Wang](https://scholar.google.com/citations?user=vuP7r6cAAAAJ&hl=en) have
 been investigating this somewhat, so we will hopefully learn more soon. Without
 random sampling, we need to have a deeper understanding to make sure that our
 ordering works well. I am interested in an ordering that is outcome-blind, so

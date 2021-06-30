@@ -66,8 +66,8 @@ a censored data structure `$\Phi(C, X)$`. For example, one might be able to
 assume `$C_l$` is independent of `$X$`, conditional on measured variables, and
 show that a conditional distribution of `$X$`, given `$T > C_l$`, implies the
 distribution of the full-data random variable `$X$` or a large part of it, so
-that a two-stage identification, first identifying `$P_X$` from `$P_{X \mid
-T > C_l}$` and then identifying `$P_{X \mid T > C_l}` from `$P$` of `$O
+that a two-stage identification, first identifying `$P_X$` from`$P_{X \mid
+T > C_l}$` and then identifying `$P_{X \mid T > C_l}$` from `$P$` of `$O
 = \phi(C, X)$` given `$T > C_l$`. Once we have done that, we can map the target
 quantity `$\Psi^F(P_X)$` into an estimand `$\Psi(P)$`, specify the statistical
 model, and then we are ready to apply TMLE.

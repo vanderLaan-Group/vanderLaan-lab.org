@@ -81,10 +81,11 @@ has an arrow going into `$A_1$`, but this `$A_2$` is pre-`$V$`. So, the ordering
 becomes `$(W, A_1, V, A_2, Y)$`. So, we now have a longitudinal two-timepoint
 intervention data structure, and we are interested in two-timepoint
 interventions `$(g^{\star}_1, g^{\star}_2)$` that optimize `$\mathbb{E}
-Y_{g^{\star}}$`. You indicate a situation in which the ability to increase $A_2
-= d(V)$ or $g^{\star}_{2 \mid V}$, to high levels is very much affected by how
-`$A_1$` is set and thereby `$V$` is realized. Just as in cancer trials where we
-h ave two-stage treatment regimen, first-line and second-line treatment.
+Y_{g^{\star}}$`. You indicate a situation in which the ability to increase
+`$A_2 = d(V)$` or `$g^{\star}_{2 \mid V}$`, to high levels is very much affected
+by how `$A_1$` is set and thereby `$V$` is realized. Just as in cancer trials
+where we h ave two-stage treatment regimen, first-line and second-line
+treatment.
 
 If we restrict to shift interventions on `$A_2$`, then, depending on `$A_1$`, we
 can push the shift further. So, we could define `$g^{\star}_{2,\delta}$` with
