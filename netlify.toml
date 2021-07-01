@@ -3,7 +3,7 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.55.6"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
@@ -11,11 +11,11 @@
   command = "hugo --enableGitInfo"
 
 [context.split1.environment]
-  HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.55.6"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
   command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.72.0"
+  HUGO_VERSION = "0.55.6"
