@@ -132,6 +132,7 @@ the roadmap as laid out, for example, in my [_Epidemiology_
 paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077670/) with [Maya
 Petersen](https://publichealth.berkeley.edu/people/maya-petersen/) or the
 Targeted Learning books:
+
 1. begin with the causal model;
 2. specify the causal quantity;
 3. use identification assumptions to express the resulting statistical estimand
